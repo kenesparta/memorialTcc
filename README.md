@@ -5,15 +5,15 @@
 <table>
   <tbody>
     <tr>
-      <td>__Orientador__</td>
+      <td>**Orientador**</td>
       <td>Prof. Dr. Fernando Rodrigues</td>
     </tr>
     <tr>
-      <td>__Corientador__</td>
+      <td>**Corientador**</td>
       <td>Prof. Dr. Márcio Amora</td>
     </tr>
     <tr>
-      <td>__Discente__</td>
+      <td>**Discente**</td>
       <td>Ken Esparta</td>
     </tr>
   </tbody>
