@@ -1,0 +1,145 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.6 }
+
+\bibitem[BINUS 2014]{binus_2014}
+\abntrefinfo{BINUS}{BINUS}{2014}
+{BINUS. \emph{Processes in Data Mining}. 2014.
+Dispon{\'\i}vel em:
+  \url{http://sisbinus.blogspot.com.br/2014/11/processes-in-data-mining.html}.
+  Acesso em: 10 jun. 2016.}
+
+\bibitem[Chapman et al. 2000]{pete_2000}
+\abntrefinfo{Chapman et al.}{CHAPMAN et al.}{2000}
+{CHAPMAN, P. et al. \emph{CRISP-DM 1.0: Step-by-step data mining guide}.
+[S.l.], 2000.}
+
+\bibitem[Chaturvedi 2008]{devendra_2008}
+\abntrefinfo{Chaturvedi}{CHATURVEDI}{2008}
+{CHATURVEDI, D.~K. \emph{Soft Computing: Techniques and its Applications in
+  Electrical Engineering}. [S.l.]: Springer, 2008.}
+
+\bibitem[Costa et al. 2012]{costa_2012}
+\abntrefinfo{Costa et al.}{COSTA et al.}{2012}
+{COSTA, E. et al. A framework for building web mining applications in the world
+  of blogs: A case study in product sentiment analysis.
+\emph{Expert Systems with Applications}, 2012.}
+
+\bibitem[Fayyad, Piatetsky-Shapiro e Smyth 1996]{fayyad_1996}
+\abntrefinfo{Fayyad, Piatetsky-Shapiro e Smyth}{FAYYAD; PIATETSKY-SHAPIRO;
+  SMYTH}{1996}
+{FAYYAD, U.; PIATETSKY-SHAPIRO, G.; SMYTH, P. From data mining to knowledge
+  discovery in databases.
+\emph{AI MAGAZINE}, 1996.}
+
+\bibitem[Gao e Tian 2009]{gao_2009}
+\abntrefinfo{Gao e Tian}{GAO; TIAN}{2009}
+{GAO, M.; TIAN, J. Web classification mining based on radial basis
+  probabilistic neural network.
+\emph{International Workshop on Database Technology and Applications}, 2009.}
+
+\bibitem[Han e Pei 2012]{jiawei_2012}
+\abntrefinfo{Han e Pei}{HAN; PEI}{2012}
+{HAN, J.; PEI, M. K.~J. \emph{Data Mining Concepts and Techniques}. 3rd. ed.
+  [S.l.]: ELSEVIER, 2012.}
+
+\bibitem[Liu 2011]{bing_2004}
+\abntrefinfo{Liu}{LIU}{2011}
+{LIU, B. \emph{Web Data Mining}. [S.l.]: Springer, 2011.}
+
+\bibitem[Maimon e Rokach 2007]{oded_2007}
+\abntrefinfo{Maimon e Rokach}{MAIMON; ROKACH}{2007}
+{MAIMON, O.; ROKACH, L. \emph{Soft Computing for Knowledge Discovery and Data
+  Mining}. [S.l.]: Springer, 2007.}
+
+\bibitem[Mankad 2013]{kunjal_2013}
+\abntrefinfo{Mankad}{MANKAD}{2013}
+{MANKAD, K.~B.
+\emph{A Genetic-Fuzzy Approach to Measure Multiple Intelligence}.
+Disserta\c{c}\~{a}o (Mestrado) --- Sardar Patel University, 2013.}
+
+\bibitem[Marsland 2015]{stephen_2015}
+\abntrefinfo{Marsland}{MARSLAND}{2015}
+{MARSLAND, S. \emph{Machine Learning: An Algorithmic Perspective}. [S.l.]: CRC
+  Press, 2015.}
+
+\bibitem[Murphy 2012]{kevin_2012}
+\abntrefinfo{Murphy}{MURPHY}{2012}
+{MURPHY, K.~P. \emph{Machine Learning: A Probabilistic Perspective}. [S.l.]:
+  Massachusetts Institute of Technology, 2012.}
+
+\bibitem[Olson e Delen 2008]{david_2008}
+\abntrefinfo{Olson e Delen}{OLSON; DELEN}{2008}
+{OLSON, D.~L.; DELEN, D. \emph{Advanced Data Mining Techniques}. [S.l.]:
+  Springer, 2008.}
+
+\bibitem[Patel, Chauhan e Patel 2011]{patel_2011}
+\abntrefinfo{Patel, Chauhan e Patel}{PATEL; CHAUHAN; PATEL}{2011}
+{PATEL, K.~B.; CHAUHAN, J.~A.; PATEL, J.~D. Web mining in e-commerce : Pattern
+  discovery , issues and applications.
+\emph{International Journal of P2P Network Trends and Technology-}, 2011.}
+
+\bibitem[Petprasit e Jaiyen 2015]{petprasit_2015}
+\abntrefinfo{Petprasit e Jaiyen}{PETPRASIT; JAIYEN}{2015}
+{PETPRASIT, W.; JAIYEN, S. E-commerce web page classification based on
+  automatic content extraction.
+\emph{International Joint Conference on Computer Science and Software
+  Engineering}, 2015.}
+
+\bibitem[Piatetsky 2014]{gregory_2014}
+\abntrefinfo{Piatetsky}{PIATETSKY}{2014}
+{PIATETSKY, G. \emph{CRISP-DM, still the top methodology for analytics, data
+  mining or data science projects}. 2014.
+Dispon{\'\i}vel em:
+  \url{http://www.kdnuggets.com/2014/10/crisp-dm-top-methodology-analytics-data-mining-data-science-projects.html}.
+  Acesso em: 10 jun. 2016.}
+
+\bibitem[Rajaraman, Leskovec e Ullman 2012]{anand_2012}
+\abntrefinfo{Rajaraman, Leskovec e Ullman}{RAJARAMAN; LESKOVEC; ULLMAN}{2012}
+{RAJARAMAN, A.; LESKOVEC, J.; ULLMAN, J.~D. \emph{Mining of Massive Datasets}.
+  [S.l.]: Stanford University, 2012.}
+
+\bibitem[Shafique e Qaiser 2014]{umair_2014}
+\abntrefinfo{Shafique e Qaiser}{SHAFIQUE; QAISER}{2014}
+{SHAFIQUE, U.; QAISER, H. A comparative study of data mining process models
+  (kdd, crisp-dm and semma).
+\emph{International Journal of Innovation and Scientific Research}, 2014.}
+
+\bibitem[Shalev-Shwartz e Ben-David 2014]{shai_2014}
+\abntrefinfo{Shalev-Shwartz e Ben-David}{SHALEV-SHWARTZ; BEN-DAVID}{2014}
+{SHALEV-SHWARTZ, S.; BEN-DAVID, S. \emph{Understanding Machine Learning: From
+  Theory to Algorithms}. [S.l.]: Cambridge University Press, 2014.}
+
+\bibitem[Sivanandam e Deepa 2004]{sivanandam_2004}
+\abntrefinfo{Sivanandam e Deepa}{SIVANANDAM; DEEPA}{2004}
+{SIVANANDAM, S.~N.; DEEPA, S.~N. \emph{Principles of S.oft Computing}. [S.l.]:
+  Wiley, 2004.}
+
+\bibitem[Thamviset e Wongthanavasu 2012]{thamviset_2012}
+\abntrefinfo{Thamviset e Wongthanavasu}{THAMVISET; WONGTHANAVASU}{2012}
+{THAMVISET, W.; WONGTHANAVASU, S. Structured web information extraction using
+  repetitive subject pattern.
+\emph{International Conference on Electrical Engineering/Electronics, Computer,
+  Telecommunications and Information Technology}, 2012.}
+
+\bibitem[Verma et al. 2015]{verma_2015}
+\abntrefinfo{Verma et al.}{VERMA et al.}{2015}
+{VERMA, N. et al. E-commerce website ranking using semantic web mining and
+  neural computing.
+\emph{Procedia Computer Science}, 2015.}
+
+\bibitem[Zadeh 1996]{zadeh_1996}
+\abntrefinfo{Zadeh}{ZADEH}{1996}
+{ZADEH, L.~A. The roles of soft computing and fuzzy logic in the conception,
+  design and deployment of intelligent system.
+\emph{IEEE Intelligent Systems}, 1996.}
+
+\bibitem[Zaki e Jr. 2014]{mohammed_2014}
+\abntrefinfo{Zaki e Jr.}{ZAKI; JR.}{2014}
+{ZAKI, M.~J.; JR., W.~M. \emph{Data Mining and Analysis Fundamental Concepts
+  and Algorithms}. [S.l.]: Cambridge University Press, 2014.}
+
+\end{thebibliography}
