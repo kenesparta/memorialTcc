@@ -150,8 +150,8 @@
 \crefformat{equation}{\textcolor{refFig}{#2(EQUAÇÃO~#1#3)}}
 \crefformat{table}{\textcolor{refFig}{#2(TABELA~#1#3)}}
 \crefformat{appendix}{\textcolor{refFig}{(#2ap.~#1#3)}}
-\crefformat{section}{\textcolor{refFig}{#2(SECÇÃO~#1#3)}}
-\crefformat{subsection}{\textcolor{refFig}{#2(SUBSECÇÃO~#1#3)}}
+\crefformat{section}{\textcolor{refFig}{#2(SEÇÃO~#1#3)}}
+\crefformat{subsection}{\textcolor{refFig}{#2(SUBSEÇÃO~#1#3)}}
 
 \usepackage{pstricks}
 
@@ -472,26 +472,26 @@
 		
 		\section{Introdução}
 		
-		A world wide web (WWW) \nomenclature[WWW]{WWW}{World Wide Web} ou
-		comumente denominada web, vêm crescendo nos últimos vinte anos. Aplicações
-		web tornam-se populares e um dos motivos é que o navegador permite
+		A World Wide Web (WWW) \nomenclature[WWW]{WWW}{World Wide Web} ou
+		comumente denominada Web, vem crescendo nos últimos vinte anos. Aplicações
+		Web tornam-se populares e um dos motivos é que o navegador permite
 		executá-las a partir de qualquer tipo de dispositivo, em outras palavras,
-		o sistema operacional não influencia à aplicação no tempo de execução.
+		o sistema operacional não influencia a aplicação no tempo de execução.
 		
 		Tanto dados estruturados como dados não estruturados trafegam pela
-		web. O próprio documento HTML\nomenclature[HTML]{HTML}{HyperText Markup Language}
+		Web. O próprio documento HTML\nomenclature[HTML]{HTML}{HyperText Markup Language}
 		renderizado no navegador é uma fonte de dados tais como endereços
-		web, informações pessoais, meta-tags, folhas de estilos, arquivos
+		Web, informações pessoais, meta-tags, folhas de estilos, arquivos
 		XML\nomenclature[XML]{XML}{Extensible Markup Language}, arquivos
 		JSON\nomenclature[JSON]{JSON}{JavaScript Object Notation}, entre
 		outros. Não obstante, os dados que estão contidos em um documento
-		HTML possuem informações relevantes que podem ser mineradas, é nesse
+		HTML possuem informações relevantes que podem ser mineradas. É nesse
 		contexto onde se aplica o processo de mineração de dados.
 		
-		Existem também os web logs, que são as informações armazenadas através
+		Existem também os Web logs, que são as informações armazenadas através
 		do tempo relacionadas ao servidor que estão em ordem cronologicamente
-		descendente. Para minerar os dados no web log, utiliza-se a mineração
-		web de uso. No presente trabalho utiliza-se o web log de artigos da
+		descendente. Para minerar os dados no Web log, utiliza-se a mineração
+		Web de uso. No presente trabalho utiliza-se o Web log de artigos da
 		Wikipédia.
 		
 		A teoria apresentada no trabalho realiza-se através de uma rede de
@@ -500,25 +500,25 @@
 		requeridos para passar ao estado seguinte. Começa-se pela Soft Computing
 		(SC\nomenclature[SC]{SC}{Soft Computing}), que é uma área das Ciências
 		da Computação que permite resolver problemas com uma abordagem orientada
-		à tolerância de imprecisões. Seguidamente aborda-se a teoria relacionada
+		à tolerância de imprecisões. Em seguida, aborda-se a teoria relacionada
 		com o aprendizado de máquina, que, juntamente com as técnicas de descobrimento
-		de conhecimento, dão origem às técnicas de mineração de dados. Finalmente
-		apresenta-se a mineração web de conteúdo (ou web content mining\nomenclature[WCM]{WCM}{Web Content Mining})
-		e mineração web de uso (ou web usage mining\nomenclature[WUM]{WUM}{Web Usage Mining}),
+		de conhecimento, dão origem às técnicas de mineração de dados. Finalmente,
+		apresenta-se a mineração Web de conteúdo (ou Web Content Mining\nomenclature[WCM]{WCM}{Web Content Mining})
+		e mineração Web de uso (ou Web Usage Mining\nomenclature[WUM]{WUM}{Web Usage Mining}),
 		cujas técnicas são utilizadas no trabalho.
 		
 		Existe o problema da desconfiança do conteúdo nos artigos da Wikipédia
 		e também de outros na internet. A proposta neste trabalho é o desenvolvimento
-		de uma aplicação web de busca na internet que tem como objetivo principal
-		a mineração de informação em artigos acadêmicos se baseando em web
+		de uma aplicação Web de busca na internet que tem como objetivo principal
+		a mineração de informação em artigos acadêmicos se baseando em Web
 		logs da Wikipédia e, finalmente, mostrando como resultado ao usuário
-		endereços web de artigos de confiança.
+		endereços Web de artigos de confiança.
 		
 		A mineração será dada em dois níveis. No primeiro nível tem-se a mineração
-		de uso nos web logs de artigos da Wikipédia e no segundo nível, a
+		de uso nos Web logs de artigos da Wikipédia e no segundo nível, a
 		mineração de conteúdo de outros sites onde também são oferecidos artigos
 		acadêmicos. O resultado da pesquisa que o usuário faz na aplicação
-		web final é a junção da mineração de uso de web logs da Wikipédia
+		Web final é a junção da mineração de uso de Web logs da Wikipédia
 		e a mineração de conteúdo de artigos acadêmicos externos a ela.
 		
 		
@@ -529,8 +529,8 @@
 		
 		Extrair, classificar e reconhecer padrões nas informações contidas
 		em artigos acadêmicos, a partir de uma busca efetuada pelo usuário
-		do sistema proposto no trabalho, tendo como base os web logs da Wikipédia
-		e utilizando técnicas de mineração web de conteúdo e mineração web
+		do sistema proposto no trabalho, tendo como base os Web logs da Wikipédia
+		e utilizando técnicas de mineração Web de conteúdo e mineração Web
 		de uso.
 		
 		
@@ -539,9 +539,9 @@
 		\begin{itemize}[leftmargin=1.9cm,labelwidth=2cm,labelindent=1.5em,labelsep=0.55cm]
 			
 			\item Mostrar ao usuário final que os resultados da busca efetuada
-			são artigos de confiança do o ponto de vista acadêmico.
+			são artigos de confiança do ponto de vista acadêmico.
 			
-			\item Utilizar técnicas de classificação de conteúdo de artigos web
+			\item Utilizar técnicas de classificação de conteúdo de artigos Web
 			da Wikipédia no aprimoramento da utilização de algoritmos de aprendizado
 			de máquina.
 			
@@ -549,14 +549,14 @@
 			padrões a partir de logs gerados pelos servidores da Wikipédia.
 			
 			\item Aplicar a fundamentação teórica relacionada com redes neurais
-			para ajudar à geração de conhecimento dos dados extraídos de artigos
+			para ajudar a geração de conhecimento dos dados extraídos de artigos
 			acadêmicos.
 			
 			\item Implementar o processo de Mineração de dados CRISP-DM, proposto
 			em \cite{pete_2000}, para gerar um modelo sólido que garanta o funcionamento
 			da mineração de conteúdo e de uso nas páginas da Wikipédia.
 			
-			\item Mostrar que a web é uma poderosa ferramenta para adquirir conhecimento
+			\item Mostrar que a Web é uma poderosa ferramenta para adquirir conhecimento
 			relevante relacionado com artigos acadêmicos de sites semelhantes
 			à Wikipédia. 
 			
@@ -565,7 +565,7 @@
 		
 		\section{Justificativa}
 		
-		As aplicações web estão sendo amplamente utilizadas pelas empresas
+		As aplicações Web estão sendo amplamente utilizadas pelas empresas
 		principalmente porque são multiplataforma e podem ser acessadas a
 		partir de qualquer lugar do mundo desde que exista uma conexão com
 		a internet. Computação na nuvem como: Amazon Web Service, Heroku,
@@ -573,63 +573,64 @@
 		trabalho utiliza os serviços da Digital Ocean para alocar os códigos
 		de teste e do produto final.
 		
-		Assim como as aplicações web estão crescendo, o mercado relacionado
+		Assim como as aplicações Web estão crescendo, o mercado relacionado
 		com comércio eletrônico também. É imprescindível que uma empresa que
-		vende produtos e serviços através de uma aplicação web tenha dados
-		das atividades que seus clientes realizam quando usam o aplicativo,
-		isso pode ser feito utilizando a mineração web de uso. Por outro lado,
-		é necessário também obter informação de aplicações web de outras empresas
-		para ter melhores ofertas aos clientes, o qual pode ser realizado
-		utilizando as técnicas de mineração web de conteúdo.
+		vende produtos e serviços através de uma aplicação Web tenha dados
+		das atividades que seus clientes realizam quando usam o aplicativo
+		e isso pode ser feito utilizando a mineração Web de uso. Por outro
+		lado, é necessário também que a empresa obtenha informação a partir
+		de aplicações Web de outras empresas concorrentes para oferecer melhores
+		ofertas aos clientes. Essa obtenção de informação é realizada utilizando
+		técnicas de mineração Web de conteúdo.
 		
 		A lógica proposta no parágrafo anterior aplica-se também no trabalho,
 		porém não possui abordagem comercial. O usuário final busca artigos
-		utilizando o sistema web, que é proposto no trabalho, o qual indexa
-		outras páginas de artigos web relacionadas com a busca utilizando
-		mineração web de conteúdo. O resultado é uma busca que retorna um
-		conjunto de endereços web com artigos de confiança considerando, ademais
-		dos web logs da Wikipédia, a informação de outros artigos acadêmicos.
+		utilizando o sistema Web, que é proposto no trabalho, o qual indexa
+		outras páginas de artigos Web relacionadas com a busca utilizando
+		mineração Web de conteúdo. O resultado é uma busca que retorna um
+		conjunto de endereços Web com artigos de confiança considerando, além
+		dos Web logs da Wikipédia, a informação de outros artigos acadêmicos.
 		
 		
 		\section{Trabalhos relacionados}
 		
 		\begin{itemize}[leftmargin=1.9cm,labelwidth=2cm,labelindent=1.5em,labelsep=0.55cm]
 			
-			\item No artigo acadêmico intitulado \emph{“E-commerce web page classification
+			\item No artigo acadêmico intitulado \emph{“E-commerce Web page classification
 				based on automatic content extraction”} referenciado em \cite{petprasit_2015},
-			onde propõe-se o método Markov Random Field para reduzir o número
-			de caraterísticas no conjunto de dados que foram extraídos da web
-			utilizando o método Subject Detection and Node Density. Seguidamente,
-			faz-se uma comparação de performance entre as redes neurais Radial
-			Basis Function e Support Vector Machine com o método Naïve Bay.
+			propõe-se o método Markov Random Field para reduzir o número de caraterísticas
+			no conjunto de dados que foram extraídos da Web utilizando o método
+			Subject Detection and Node Density. Em seguida, faz-se uma comparação
+			de performance entre as redes neurais Radial Basis Function e Support
+			Vector Machine com o método Naive Bayes.
 			
 			\item No artigo acadêmico intitulado \emph{“E-commerce website ranking
-				using Semantic web mining and neural computing”} referenciado em \cite{verma_2015},
-			onde utiliza-se redes neurais, mineração web de uso e de conteúdo
-			para desenvolver uma aplicação web de determinação de prioridade de
-			diferentes páginas web de comércio eletrônico.
+				using Semantic Web mining and neural computing”} referenciado em \cite{verma_2015},
+			utilizam-se redes neurais, mineração Web de uso e de conteúdo para
+			desenvolver uma aplicação Web de determinação de prioridade de diferentes
+			páginas Web de comércio eletrônico.
 			
 			\item No artigo acadêmico intitulado \emph{“A framework for building
-				web mining applications in the world of blogs: A case study in product
+				Web mining applications in the world of blogs: A case study in product
 				sentiment analysis”} referenciado em \cite{costa_2012}, descreve-se
 			um framework desenvolvido na linguagem Java™ que utiliza os serviços
-			da mineração web semântica para ajudar a usuários de blogs na busca
-			efetiva de informação relevante no mundo dos blogs. Utiliza uma interface
-			de aplicação, um controlador de mineração de dados na web (web crawler)
-			e um extractor de textos.
+			da mineração Web semântica para ajudar a usuários de blogs na busca
+			efetiva de informação relevante no mundo dos blogs. Esse framework
+			utiliza uma interface de aplicação, um controlador de mineração de
+			dados na Web (Web crawler) e um extractor de textos.
 			
 			\item No artigo acadêmico intitulado \emph{“Web Classification Mining
 				Based on Radial Basis Probabilistic Neural Network”} referenciado
 			em \cite{gao_2009}, utiliza-se o método K-Nearest Neighbor (KNN)
 			modificado para treinar a rede neural do tipo Radial Basis Probabilistic;
 			os dados utilizados para classificação e treinamento foram extraídos
-			de mil páginas web utilizando a mineração web de conteúdo.
+			de mil páginas Web utilizando a mineração Web de conteúdo.
 			
-			\item No artigo acadêmico intitulado \emph{“Structured web information
+			\item No artigo acadêmico intitulado \emph{“Structured Web information
 				extraction using repetitive subject pattern”} referenciado em \cite{thamviset_2012}
 			propõe-se uma técnica semi supervisionada que cria um padrão de extração
-			de dados de páginas web de comercio eletrônico. O sistema é composto
-			por um extrator de dados e um wrapper que traduz os conteúdos da web
+			de dados de páginas Web de comércio eletrônico. O sistema é composto
+			por um extrator de dados e um wrapper que traduz os conteúdos da Web
 			para tabelas do tipo relacionais.
 			
 		\end{itemize}
@@ -645,7 +646,7 @@
 		
 		\captionsetup{width=0.7\textwidth}
 		\begin{figure}[h]
-			\noindent \centering{}\caption{Ensamblagem do conhecimento para conseguir as ferramentas teóricas
+			\noindent \centering{}\caption{Estruturação do conhecimento para conseguir as ferramentas teóricas
 				e técnicas relacionadas com o presente trabalho.\label{fig:organ_teorica}}
 			\includegraphics[scale=0.6]{img/rede_petri_teoria}\\\vspace{-0.1em}\fonteProp
 		\end{figure}
@@ -656,7 +657,7 @@
 		as quais serão adotadas para que a ficha posa ativar as transições.
 		Cada transição representa uma ferramenta que será adquirida do estado
 		anterior antes de passar ao próximo. Em outras palavras, a ficha pode
-		passar somente ao seguinte estado quando uma ferramenta específica
+		passar somente ao estado seguinte quando uma ferramenta específica
 		do estado anterior é definida para ser utilizada.
 		
 		
@@ -664,22 +665,22 @@
 		
 		Existem dois tipos de paradigmas computacionais, a Soft Computing
 		(SC) e a Hard Computing (HC\nomenclature[HC]{HC}{Hard Computing}),
-		ambos termos foram estabelecidos pela primeira vez pelo professor
+		ambos os termos foram estabelecidos pela primeira vez pelo professor
 		L. A. Zadeh no ano 1996. O HC trata sobre modelos precisos onde as
 		soluções são atingidas imediatamente, por outra parte, a SC lida com
 		modelos de aproximações e dá soluções a problemas complexos \cite{sivanandam_2004}.
 		Como pode-se perceber, a HC é basicamente a computação convencional
-		onde a solução dos problemas baseiam-se nos princípios da precisão,
-		em contraste, o paradigma da SC trata-se sobre solucionar problemas
-		utilizando modelos imprecisos que possuem certa porcentagem de aproximação.
+		onde a solução dos problemas baseia-se nos princípios da precisão.
+		Em contraste, o paradigma da SC trata sobre solucionar problemas utilizando
+		modelos imprecisos que possuem certa porcentagem de aproximação.
 		
 		Cataloga-se a SC, em \cite{oded_2007}, como uma coleção de novas
-		técnicas em inteligência artificial a qual explora a tolerância para
+		técnicas em inteligência artificial que exploram a tolerância para
 		a imprecisão, incerteza, verdade parcial e manipulação de não linearidades
 		para poder alcançar rastreabilidade, robustez e soluções de menor
 		custo comparado com os métodos da HC, ou seja apresenta-se uma coleção
-		de ferramentas aptas para minerar a web porque esta encaixa-se nas
-		definições de imprecisa, incerta e veracidade duvidosa.
+		de ferramentas aptas para minerar a Web porque esta encaixa-se nas
+		definições de imprecisão, incerteza e veracidade duvidosa.
 		
 		\captionsetup{width=0.7\textwidth}
 		\begin{figure}[h]
@@ -691,12 +692,12 @@
 		A SC está composta por técnicas como a rede neural (Neural Network\nomenclature[NN]{NN}{Neural Network}),
 		computação evolucionária (Evolutionary Computing\nomenclature[EC]{EC}{Evolutionary Computing}),
 		sistemas difusos (Fuzzy Systems\nomenclature[FS]{FS}{Fuzzy Systems})
-		e raciocínio probabilístico (Probabilistic Reasoning\nomenclature[PR]{PR}{Probabilistic Reasoning})
-		veja-se a \cref{fig:sc_comp}.
+		e raciocínio probabilístico (Probabilistic Reasoning\nomenclature[PR]{PR}{Probabilistic Reasoning}),
+		como mostrado na \cref{fig:sc_comp}.
 		
-		As técnicas mostradas na \cref{fig:sc_comp}, não sempre estão isoladas.
+		As técnicas mostradas na \cref{fig:sc_comp}, nem sempre estão isoladas.
 		Elas podem ser aplicadas ao mesmo tempo para resolver um mesmo problema,
-		isso denomina-se hibridação.
+		e isso denomina-se hibridação.
 		
 		Em \cite{zadeh_1996} define-se a SC como uma nova abordagem da computação
 		a qual é análoga à habilidade marcante da mente humana para pensar
@@ -705,7 +706,7 @@
 		inteligentes e sábias. Pode-se observar na \cref{fig:top_down_abordagem}
 		o desenvolvimento da SC, começando pela computação convencional, até
 		chegar ao extremo de pensamento puro por parte de um computador, ou
-		seja que o objetivo final da SC é projetar e desenvolver um computador
+		seja, o objetivo final da SC é projetar e desenvolver um computador
 		que possa agir de forma semelhante aos seres humanos.
 		
 		\captionsetup{width=0.7\textwidth}
@@ -717,18 +718,18 @@
 		
 		Para conseguir ativar a transição na rede de Petri da \cref{fig:organ_teorica}
 		é necessário estabelecer a rede neural como técnica para poder passar
-		ao seguinte estado que é o aprendizado de máquina.
+		ao estado seguinte que é o aprendizado de máquina.
 		
 		Uma rede neural artificial (ou simplesmente rede neural) é um modelo
 		matemático simplificado de uma rede de neurônios biológicos. A unidade
 		fundamental de uma rede neural é o neurônio que está interconectado
-		com outros, executam em paralelo uma tarefa global comum e possuem
-		a habilidade de aprendizagem. Explica-se em \cite{kunjal_2013} que
-		uma consequência da aprendizagem dos neurônios de uma rede neural
-		é a adquisição de conhecimento e torná-lo disponível para o uso. As
-		caraterísticas básicas de uma rede neural são o paralelismo inerente,
-		acesso a informação local, a semelhança entre suas componentes e o
-		aprendizado incremental.
+		com outros. Essas redes executam em paralelo uma tarefa global comum
+		e possuem a habilidade de aprendizagem. Explica-se em \cite{kunjal_2013}
+		que uma consequência da aprendizagem dos neurônios de uma rede neural
+		é a aquisição de conhecimento de modo a torná-lo disponível para o
+		uso. As caraterísticas básicas de uma rede neural são o paralelismo
+		inerente, acesso à informação local, a semelhança entre suas componentes
+		e o aprendizado incremental.
 		
 		
 		\subsection{Aprendizado de máquina}
@@ -736,15 +737,15 @@
 		\label{sec:aprendizado_maquina}
 		
 		A ficha encontra-se no seguinte estado, contendo já a teoria de uma
-		rede neural. Nesta secção trata-se sobre as técnicas que vão ser adotadas
+		rede neural. Nesta seção trata-se sobre as técnicas que serão adotadas
 		do aprendizado de máquina (Machine Learning).
 		
 		O aprendizado automático ou aprendizado de máquina é um programa de
 		computador que pode “aprender” de um conjunto de entradas disponíveis.
 		Define-se, em \cite{kevin_2012}, que o aprendizado de máquina é um
-		conjunto de métodos que podem detetar automaticamente padrões em um
-		determinado conjunto de dados e, posteriormente, utilizar esse padrões
-		descobertos para predizer dados futuros. Aprendizado é, grosseiramente
+		conjunto de métodos que podem detectar automaticamente padrões em
+		um determinado conjunto de dados e, posteriormente, utilizar esse
+		padrões descobertos para predizer dados futuros. Aprendizado é, grosseiramente
 		falando, o processo de converter experiência em habilidade ou conhecimento
 		\cite{shai_2014}. Aprender a partir de dados é o conceito fundamental
 		do ML\nomenclature[ML]{ML}{Machine Learning}.
@@ -755,7 +756,7 @@
 		envolvidos, em contraste com a Inteligência Artificial, onde o computador
 		manipula símbolos que refletem o entorno (processo simbólico) \cite{stephen_2015}.
 		
-		Tomando como ponto de partida que, as máquinas aprendem a partir de
+		Tomando como ponto de partida que as máquinas aprendem a partir de
 		dados, então, em \cite{stephen_2015} a ML trata sobre como fazer
 		computadores modificarem ou adaptarem as suas ações de modo que estas
 		se tornem mais precisas, onde a precisão é medida por quão bem a escolha
@@ -764,10 +765,10 @@
 		Em que momento precisa-se do ML?, responder esta pergunta é fundamental
 		porque justifica a utilização dos conceitos de ML no trabalho. A resposta
 		é dada em \cite{shai_2014}, onde sugere-se que os conceitos de ML
-		devem ser utilizados em tarefas realizadas por humanos ou animais,
-		de acordo com isso, precisa-se do ML para poder modelar os algoritmos
+		devem ser utilizados em tarefas realizadas por humanos ou animais.
+		De acordo com isso, precisa-se do ML para poder modelar os algoritmos
 		deste trabalho; de modo que utilizam-se dados gerados pela interação
-		humana com a web a partir de buscas.
+		humana com a Web a partir de buscas.
 		
 		De acordo com \cite{kevin_2012}, o aprendizado de máquina divide-se,
 		usualmente, em aprendizado supervisionado, aprendizado não supervisionado
@@ -780,11 +781,11 @@
 		de recompensa ou de punição.
 		
 		A atividade de classificar e extrair conhecimento a partir do conteúdo
-		de páginas web da Wikipédia justifica a escolha da utilização das
+		de páginas Web da Wikipédia justifica a escolha da utilização das
 		ferramentas oferecidas pela abordagem supervisionada do aprendizado
-		de máquina. Então, ficha passa para o seguinte estado sabendo que
-		até esta subsecção, juntando os conceitos revisados, está sendo utilizada
-		uma rede neural com aprendizagem supervisionada.
+		de máquina. Então, a ficha da rede de Petri passa para o seguinte
+		estado sabendo que até esta subseção, juntando os conceitos revisados,
+		está sendo utilizada uma rede neural com aprendizagem supervisionada.
 		
 		
 		\subsection{Mineração de dados}
@@ -795,8 +796,8 @@
 		como o processo de descoberta intuitiva de novos padrões de interesse,
 		assim como modelos preditivos, descritivos e compreensíveis.
 		
-		Em \cite{anand_2012} descreve-se à mineração de dados como a descoberta
-		de modelos a partir de dados, existem duas abordagens: a estatística
+		Em \cite{anand_2012} descreve-se a mineração de dados como a descoberta
+		de modelos a partir de dados. Existem duas abordagens: a estatística
 		e a do aprendizado de máquina. Para o presente trabalho utiliza-se
 		a abordagem de aprendizado de máquina, esta decisão justifica-se na
 		\cref{sec:aprendizado_maquina}. 
@@ -819,12 +820,26 @@
 			e iterativo, possui cinco passos de desenvolvimento que se podem observar
 			na \cref{fig:KDD}.
 			
+			\captionsetup{width=0.7\textwidth}
+			\begin{figure}[H]
+				\noindent \centering{}\caption{Uma visão geral dos passos que compõem o processo KDD.\label{fig:KDD}}
+				\includegraphics[scale=0.52]{img/kdd}\\\vspace{-0.1em}\fonte{\cite{fayyad_1996}}
+			\end{figure}
+			
+			
 			\item [{SEMMA\nomenclature[SEMMA]{SEMMA}{Sample, Explore, Modify, Model and Assess}}]
 			Do acrônimo Sample, Explore, Modify, Model and Assess; que foi desenvolvido
 			pelo instituto SAS\footnote{Statistical Analysis System, é o nome de uma empresa pioneira em Business
 				intelligence. Disponível em \url{http://www.sas.com}}. Foca-se basicamente no desenvolvimento e manutenção de projetos
 			de mineração de dados. Consiste em um ciclo altamente iterativo de
 			cinco passos como pode-se verificar na \cref{fig:SEMMA}.
+			
+			\captionsetup{width=0.7\textwidth}
+			\begin{figure}[H]
+				\noindent \centering{}\caption{Metodologia SEMMA proposto pela SAS.\label{fig:SEMMA}}
+				\includegraphics[scale=0.5]{img/semma}\\\vspace{-0.1em}\fonte{\cite{binus_2014}}
+			\end{figure}
+			
 			
 			\item [{CRISP-DM\nomenclature[CRISP-DM]{CRISP-DM}{Cross-Industry Standard Process for Data Mining}}]
 			É um processo de mineração de dados que significa Cross-Industry Standard
@@ -837,28 +852,22 @@
 			no site KDnuggets, pode-se observar na \cref{tab:crisp-dm_pesquisa}
 			que o CRISP-DM é o método mais utilizado nos anos 2007 e 2014.
 			
+			\captionsetup{width=0.7\textwidth}
+			\begin{figure}[H]
+				\noindent \centering{}\caption{Metodologia CRISP-DM, utilizada no presente trabalho.\label{fig:CRISP-DM}}
+				\includegraphics[scale=0.6]{img/crisp-dm}\\\vspace{-0.1em}\fonte{\cite{david_2008}}
+			\end{figure}
+			
+			
 		\end{description}
 		
-		\captionsetup{width=0.7\textwidth}
-		\begin{figure}[H]
-			\noindent \centering{}\caption{Uma visão geral dos passos que compõem o processo KDD.\label{fig:KDD}}
-			\includegraphics[scale=0.52]{img/kdd}\\\vspace{-0.1em}\fonte{\cite{fayyad_1996}}
-		\end{figure}
-		
-		
-		\captionsetup{width=0.7\textwidth}
-		\begin{figure}[H]
-			\noindent \centering{}\caption{Metodologia SEMMA proposto pela SAS.\label{fig:SEMMA}}
-			\includegraphics[scale=0.51]{img/semma}\\\vspace{-0.1em}\fonte{\cite{binus_2014}}
-		\end{figure}
-		
-		
-		\captionsetup{width=0.7\textwidth}
-		\begin{figure}[H]
-			\noindent \centering{}\caption{Metodologia CRISP-DM, utilizada no presente trabalho.\label{fig:CRISP-DM}}
-			\includegraphics[scale=0.6]{img/crisp-dm}\\\vspace{-0.1em}\fonte{\cite{david_2008}}
-		\end{figure}
-		
+		Para passar ao seguinte estado da rede de Petri estabelecida, veja-se
+		\cref{fig:organ_teorica}, é necessário adotar um tipo de processo
+		de mineração de dados. Como é mencionado em \cite{david_2008}, nas
+		três metodologias que foram abarcadas, não há obrigação de seguir
+		de forma rígida seus respectivos passos. Afinal, optou-se por seguir
+		a metodologia CRISP-DM. Na \cref{sec:materiais_metodos} vê-se a aplicação
+		desta metodologia a partir do ponto de vista da proposta do trabalho.
 		
 		\captionsetup{width=0.8\textwidth}
 		\begin{table}[H]
@@ -890,63 +899,55 @@
 		\end{table}
 		
 		
-		Para passar ao ao seguinte estado da rede de Petri estabelecida, veja-se
-		\cref{fig:organ_teorica}, é necessário adotar um tipo de processo
-		de mineração de dados. Como é mencionado em \cite{david_2008}, nas
-		três metodologias que foram abarcadas, não se obriga seguir de forma
-		rígida seus respectivos passos. Afinal, optou-se por seguir a metodologia
-		CRISP-DM, na \cref{sec:materiais_metodos} vê-se a aplicação desta
-		metodologia a partir do ponto de vista da proposta do trabalho.
-		
 		
 		\subsection{Mineração na Web}
 		
-		A mineração na web ou web mining, é um conjunto de ferramentas adicionais
+		A mineração na Web ou Web mining, é um conjunto de ferramentas adicionais
 		à mineração de dados que, como o nome indica, permitem a descoberta
-		de conhecimento utilizando recursos obtidos da web. Em \cite{bing_2004}
-		explica-se que a mineração a na web é descobrir informação útil e
+		de conhecimento utilizando recursos obtidos da Web. Em \cite{bing_2004}
+		explica-se que a mineração a na Web é descobrir informação útil e
 		relevante a partir de estruturas de hiper-referências, conteúdo das
 		páginas e dados de uso de clientes. Justamente essas três fontes de
-		extração de informação fazem referência as três categorias de mineração
-		na web mostradas em seguida, veja-se na \cref{fig:web_mining_taxonomia}:
+		extração de informação fazem referência às três categorias de mineração
+		na Web mostradas a seguir, veja-se na \cref{fig:Web_mining_taxonomia}:
 		
 		\begin{description}[style=multiline,leftmargin=2.5cm]
 			
-			\item [{Conteúdo}] Ou web content mining (WUM), é a extração de
-			informação valiosa a partir de informação alocada em páginas web.
+			\item [{Conteúdo}] Ou Web content mining (WUM), é a extração de
+			informação valiosa a partir de informação alocada em páginas Web.
 			
-			\item [{Estrutura}] Ou web structure mining (WSM\nomenclature[WSM]{WSM}{Web Structure Mining}),
-			nesta técnica considera-se uma página web como um nó e as referências
+			\item [{Estrutura}] Ou Web structure mining (WSM\nomenclature[WSM]{WSM}{Web Structure Mining}),
+			nesta técnica considera-se uma página Web como um nó e as referências
 			entre elas como as arestas que as juntam. 
 			
-			\item [{Uso}] Ou web usage mining (WUM), refere-se ao descobrimento
-			de padrões de acesos do usuário ao servidor, ou seja extração de padrões
-			de web logs. 
+			\item [{Uso}] Ou Web usage mining (WUM), refere-se ao descobrimento
+			de padrões de acessos do usuário ao servidor, ou seja extração de
+			padrões de Web logs. 
 			
 		\end{description}
 		
 		\captionsetup{width=0.7\textwidth}
 		\begin{figure}[H]
-			\noindent \centering{}\caption{Taxonomia da mineração na web.\label{fig:web_mining_taxonomia}}
+			\noindent \centering{}\caption{Taxonomia da mineração na Web.\label{fig:Web_mining_taxonomia}}
 			\includegraphics[scale=0.6]{img/taxonomia}\\\vspace{-0.1em}\fonte{\cite{patel_2011}}
 		\end{figure}
 		
 		
-		Pretende-se utilizar as ferramentas fornecidas pela mineração web
-		de conteúdo e mineração web de uso. Esta escolha deve-se a dois fatores;
-		o primeiro é a utilização de web logs (obtidos de \url{https://dumps.wikimedia.org/other/pagecounts-raw/})
+		Pretende-se utilizar as ferramentas fornecidas pela mineração Web
+		de conteúdo e mineração Web de uso. Esta escolha deve-se a dois fatores;
+		o primeiro é a utilização de Web logs (obtidos de \url{https://dumps.wikimedia.org/other/pagecounts-raw/})
 		para melhorar a experiência do usuário na busca por conteúdo na Wikipédia,
-		e o segundo fator, é a utilização de métodos de web scraping que se
-		aplicam em páginas de artigos acadêmicos semelhantes á Wikipédia.
+		e o segundo fator, é a utilização de métodos de Web scraping que se
+		aplicam em páginas de artigos acadêmicos semelhantes à Wikipédia.
 		Web scraping é um conjunto de técnicas computacionais que são utilizadas
-		para obter informação diretamente de páginas web utilizando requisições
+		para obter informação diretamente de páginas Web utilizando requisições
 		HTTP.
 		
-		Finalmente, chegando neste ponto, a ensamblagem teórica pára e em
+		Finalmente, chegando neste ponto, a estruturação teórica pára e em
 		consequência uma ficha da rede de Petri fica no estado da mineração
-		web de conteúdo e a outra, na mineração web de uso. Com a parte teórica
+		Web de conteúdo e a outra, na mineração Web de uso. Com a parte teórica
 		consolidada, na subsecção seguinte, explica-se sobre o software que
-		é utilizado na parte prática da aplicação web proposta no trabalho. 
+		é utilizado na parte prática da aplicação Web proposta no trabalho. 
 		
 		
 		\subsection{Bibliotecas de Python utilizadas}
@@ -959,18 +960,18 @@
 		estabelecido na presente monografia.
 		
 		Scrapy, Requests e Beautiful Soup são três bibliotecas open source
-		utilizadas para realizar a descoberta de informação na web de artigos
+		utilizadas para realizar a descoberta de informação na Web de artigos
 		relacionados com a Wikipédia, um resumo sobre a funcionalidade dessas
 		bibliotecas são mostradas seguidamente:
 		
 		\begin{description}[style=multiline,leftmargin=3.3cm]
 			
 			\item [{Scrapy}] É um framework escrito em Python para fazer rastreadores
-			web (web crawling) mediante a criação de “spiders” que são robôs que
-			coletam informação de uma determinada página web.
+			Web (Web crawling) mediante a criação de “spiders” que são robôs que
+			coletam informação de uma determinada página Web.
 			
 			\item [{Requests}] É uma biblioteca HTTP para Python, que faz requisições
-			web e extração de conteúdo de uma página web, essa extração é direta,
+			Web e extração de conteúdo de uma página Web, essa extração é direta,
 			ou seja não existem filtros de tags. Para a filtragem utiliza-se a
 			biblioteca Beautifull Soup.
 			
@@ -980,7 +981,7 @@
 			
 		\end{description}
 		
-		Para a etapa de análise dos dados coletados de web logs da Wikipédia
+		Para a etapa de análise dos dados coletados de Web logs da Wikipédia
 		utilizam-se as seguintes bibliotecas open source: Scipy, Numpy, Matplotlib
 		e Jupyter. Uma breve explicação sobre o funcionamento daquelas bibliotecas
 		é exposta em seguida:
@@ -995,21 +996,21 @@
 			
 			\item [{Matplotlib}] É uma biblioteca de Python para fazer gráficos
 			em duas dimensões. Utiliza-se geramente com a feramenta Jupyter para
-			aplicações web relacionadas com a produção de gráficos semelhantes
+			aplicações Web relacionadas com a produção de gráficos semelhantes
 			à Mathematica\textregistered
 			
-			\item [{Jupyter}] É uma aplicação web que permite criar e compartilhar
+			\item [{Jupyter}] É uma aplicação Web que permite criar e compartilhar
 			documentos que tenham código, equações, visualizações e textos explicativos.
 			Inclui ferramentas como limpeza de dados, simulações numéricas, modelagem
 			estatística e aprendizado de máquina.
 			
 		\end{description}
 		
-		O resultado final é uma interface web produzida inteiramente na linguagem
+		O resultado final é uma interface Web produzida inteiramente na linguagem
 		Python (versão 3.5) utilizando o framework Django onde são implementadas
 		as rotinas para a obtenção de dados, o preprocessamento, agrupamento,
 		análise, obtenção de conhecimento e reconhecimento de padrões de artigos
-		relacionados com a Wikipédia e os web logs dos servidores desta.
+		relacionados com a Wikipédia e os Web logs dos servidores desta.
 		
 		
 		
@@ -1021,7 +1022,7 @@
 		Como foi exposto na \cref{sec:python_biblio}, utiliza-se a linguagem
 		Python (versão 3.5) com as suas respectivas bibliotecas para realizar
 		todas as tarefas descritas na secção 4.5. O programa final produzido
-		será executado num servidor web fornecido por Digital Ocean (serviço
+		será executado num servidor Web fornecido por Digital Ocean (serviço
 		de computação na nuvem) com a interação do usuário final.
 		
 		Mostram-se, como explicado na \cref{sec:mineracao_dados}, as etapas
@@ -1032,70 +1033,70 @@
 		\begin{description}[style=multiline,leftmargin=3.5cm]
 			
 			\item [{Compreensão do negócio }] Deseja-se aprimorar as buscas
-			de artigos acadêmicos dos usuários baseando-se na mineração de web
-			logs da wikipédia e na mineração de páginas web relacionadas. Utiliza-se
+			de artigos acadêmicos dos usuários baseando-se na mineração de Web
+			logs da wikipédia e na mineração de páginas Web relacionadas. Utiliza-se
 			a técnica de mineração de dados porque as informações das páginas
-			web maiormente tem informações irrelevantes. 
+			Web maiormente tem informações irrelevantes. 
 			
-			\item [{Compreensão dos dados}] Os dados vem de duas fontes: web
-			logs da Wikipédia, que são dados homogêneos e da mineração web de
+			\item [{Compreensão dos dados}] Os dados vem de duas fontes: Web
+			logs da Wikipédia, que são dados homogêneos e da mineração Web de
 			conteúdo de artigos acadêmicos, que são dados heterogêneos.
 			
 			\item [{Preparação dos dados}]A aplicam-se técnicas de filtragem
-			nos bancos de dados de web logs da Wikipédia e os que foram obtidos
-			a través da mineração web, onde o “ruido” não desejado é eliminado.
+			nos bancos de dados de Web logs da Wikipédia e os que foram obtidos
+			a través da mineração Web, onde o “ruido” não desejado é eliminado.
 			Também aplicam-se técnicas de agrupamento de dados, tudo isso é para
 			poder otimizar o treinamento da rede neural que é modelada no passo
 			seguinte.
 			
-			\item [{Modelado}]Nesta etapa, projeta-se uma rede neural adequada
+			\item [{Modelagem}]Nesta etapa, projeta-se uma rede neural adequada
 			ao problema a ser resolvido. A rede neural é do tipo RBF (Radial Basis
 			Function) e é implementada tendo como referência o artigo \cite{petprasit_2015}. 
 			
-			\item [{Avaliação}]Nesta etapa realiza-se juntamente com a do modelado,
+			\item [{Avaliação}]Esta etapa realiza-se juntamente com a da Modelagem,
 			é dizer, enquanto se projeta uma rede neural ela é testada para verificar
-			cumpre com os requisitos de solução do problema.
+			o cumprimento dos requisitos de solução do problema.
 			
 			\item [{Desenvolvimento}]Finalmente, o desenvolvimento da aplicação
-			web tendo em conta o anterior mencionado. Destacando que o desenvolvimento
+			Web tendo em conta o anterior mencionado. Destacando que o desenvolvimento
 			realiza-se utilizando a técnica TDD\nomenclature[TDD]{TDD}{Test-Driven Development}. 
 			
 		\end{description}
 		
-		\captionsetup{width=0.7\textwidth}
-		\begin{figure}[h]
-			\noindent \centering{}\caption{Rede de petri onde mostram-se as atividades que realiza a aplicação
-				web proposta pelo trabalho. \label{fig:petri_funcionamento}}
-			\includegraphics[scale=0.55]{img/rede_petri_funcionamento}\\\vspace{-0.1em}\fonteProp
-		\end{figure}
-		
-		
 		Depois de haver estabelecido a metodologia, estabelecem-se as atividades
-		da aplicação web proposta no trabalho. Primeiramente, o usuário faz
+		da aplicação Web proposta no trabalho. Primeiramente, o usuário faz
 		uma requisição HTTP no momento de fazer uma busca usando o sistema
-		web proposto, essa ação ativará a busca em vários sites (relacionados
-		com artigos acadêmicos) utilizando os métodos de web scraping, para
-		extrair dados da web é utilizado o algoritmo Subject Detection and
-		Node Density proposto em \cite{petprasit_2015}. Seguidamente, os
-		dados obtidos, são armazenados em um banco de dados não relacional
-		(neste caso MongoDB) e analisam-se, utilizando uma técnica de rede
-		neural supervisionada, juntamente com outros dados que são os web
-		logs da Wikipédia \cref{fig:arquivo_wiki} que já estão armazenados
-		no mesmo banco de dados. Finalmente, a resposta preparada é mostrada
-		para o usuário, dita resposta contém links de páginas web de artigos
-		acadêmicos que estão relacionados com as palavras chaves da busca.
-		Essas atividades mostram-se na rede de Petri da \cref{fig:petri_funcionamento}.
+		Web proposto, essa ação ativará a busca em vários sites (relacionados
+		com artigos acadêmicos) utilizando os métodos de Web scraping, para
+		extrair dados da Web é utilizado o algoritmo Subject Detection and
+		Node Density proposto em \cite{petprasit_2015}. Em seguida, os dados
+		obtidos são armazenados em um banco de dados não relacional (neste
+		caso MongoDB) e analisam-se, utilizando uma técnica de rede neural
+		supervisionada, juntamente com outros dados que são os Web logs da
+		Wikipédia \cref{fig:arquivo_wiki} que já estão armazenados no mesmo
+		banco de dados. Finalmente, a resposta preparada é mostrada para o
+		usuário, dita resposta contém links de páginas Web de artigos acadêmicos
+		que estão relacionados com as palavras chaves da busca. Essas atividades
+		são mostradas na rede de Petri da \cref{fig:petri_funcionamento}.
 		
 		\captionsetup{width=0.7\textwidth}
 		\begin{figure}[H]
-			\noindent \centering{}\caption{Formato geral de um arquivo de web log obtido da Wikipédia. \label{fig:arquivo_wiki}}
+			\noindent \centering{}\caption{Formato geral de um arquivo de Web log obtido da Wikipédia. \label{fig:arquivo_wiki}}
 			\includegraphics[scale=0.65]{img/modelo_arquivo_wikipedia}\\\vspace{-0.1em}\fonteProp
 		\end{figure}
 		
 		
-		Na tabela \cref{tab:cronograma} mostra-se uma previsão de tempo para
-		poder realizar todas as tarefas. Lembrando que o processo CRISP-DM,
-		veja-se \cref{fig:CRISP-DM}, é cíclico e iterativo.
+		\captionsetup{width=0.7\textwidth}
+		\begin{figure}[h]
+			\noindent \centering{}\caption{Rede de Petri onde mostram-se as atividades da aplicação Web proposta
+				no trabalho. \label{fig:petri_funcionamento}}
+			\includegraphics[scale=0.55]{img/rede_petri_funcionamento}\\\vspace{-0.1em}\fonteProp
+		\end{figure}
+		
+		
+		Na \cref{tab:cronograma} mostra-se uma previsão de tempo para poder
+		realizar todas as tarefas. Lembrando que o processo CRISP-DM, veja-se
+		\cref{fig:CRISP-DM}, é cíclico e iterativo.
 		
 		\captionsetup{width=0.7\textwidth}
 		\begin{table}[H]
