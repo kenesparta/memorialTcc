@@ -1,70 +1,19 @@
-This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
-Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
-The top-level auxiliary file: memorial_tcc_ken.aux
+This is BibTeX, Version 0.99dThe top-level auxiliary file: memorial_tcc_ken.aux
 The style file: abntex2-alf.bst
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
-Database file #1: abntex2-options.bib
-Database file #2: biblio_bas_seminario_monografia.bib
+Illegal, another \bibstyle command---line 57 of file memorial_tcc_ken.aux
+ : \bibstyle
+ :          {abntex2-}
+I'm skipping whatever remains of this command
+Database file #1: biblio_bas_seminario_monografia.bib
 Warning--entry type for "binus_2014" isn't style-file defined
 --line 5 of file biblio_bas_seminario_monografia.bib
 Warning--entry type for "gregory_2014" isn't style-file defined
 --line 171 of file biblio_bas_seminario_monografia.bib
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
-Reallocated global_strs (elt_size=20001) to 20 items from 10.
-Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Warning--I didn't find a database entry for "abnt-url-package=url"
+Warning--I didn't find a database entry for "abnt-verbatim-entry=no"
 +---------------------------------------------------------+
 | Estilo bibliográfico abntex2-alf.bst versão v-1.9.6           |
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://www.abntex.net.br/                               |
 +---------------------------------------------------------+
-You've used 26 entries,
-            6714 wiz_defined-function locations,
-            1303 strings with 12871 characters,
-and the built_in function-call counts, 21624 in all, are:
-= -- 1939
-> -- 717
-< -- 178
-+ -- 493
-- -- 221
-* -- 1467
-:= -- 2942
-add.period$ -- 77
-call.type$ -- 26
-change.case$ -- 245
-chr.to.int$ -- 28
-cite$ -- 24
-duplicate$ -- 1373
-empty$ -- 1403
-format.name$ -- 1047
-if$ -- 4825
-int.to.chr$ -- 1
-int.to.str$ -- 0
-missing$ -- 455
-newline$ -- 118
-num.names$ -- 120
-pop$ -- 641
-preamble$ -- 1
-purify$ -- 100
-quote$ -- 0
-skip$ -- 1551
-stack$ -- 1
-substring$ -- 644
-swap$ -- 485
-text.length$ -- 2
-text.prefix$ -- 0
-top$ -- 0
-type$ -- 4
-warning$ -- 0
-while$ -- 148
-width$ -- 0
-write$ -- 348
-(There were 2 warnings)
+(There was 1 error message)

@@ -1,0 +1,14 @@
+#TeXlipse project settings
+#Tue Jun 28 15:05:10 GMT-03:00 2016
+markTmpDer=true
+builderNum=2
+outputDir=
+makeIndSty=
+bibrefDir=
+outputFormat=pdf
+tempDir=tmp
+mainTexFile=memorial_tcc_ken.tex
+outputFile=memorial_tcc_ken.pdf
+langSpell=en
+markDer=true
+srcDir=

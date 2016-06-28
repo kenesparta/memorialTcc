@@ -1,0 +1,12 @@
+This is C:\Program Files\MiKTeX 2.9\miktex\bin\x64\makeindex.exe, version 2.15 [MiKTeX 2.9 64-bit] (kpathsea + Thai support).
+Scanning style file C:/Program Files/MiKTeX 2.9/makeindex/nomencl/nomencl.ist.......
+** Input style error (file = C:/Program Files/MiKTeX 2.9/makeindex/nomencl/nomencl.ist, line = 70):
+   -- Unknown specifier lethead_prefix.
+** Input style error (file = C:/Program Files/MiKTeX 2.9/makeindex/nomencl/nomencl.ist, line = 71):
+   -- Unknown specifier lethead_suffix.
+** Input style error (file = C:/Program Files/MiKTeX 2.9/makeindex/nomencl/nomencl.ist, line = 72):
+   -- Unknown specifier lethead_flag.
+...done (10 attributes redefined, 3 ignored).
+Scanning input file memorial_tcc_ken.nlo...done (0 entries accepted, 0 rejected).
+Nothing written in memorial_tcc_ken.nls.
+Transcript written in memorial_tcc_ken.ilg.
