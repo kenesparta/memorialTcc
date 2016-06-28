@@ -1,19 +1,14 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: memorial_tcc_ken.aux
 The style file: abntex2-alf.bst
-Illegal, another \bibstyle command---line 57 of file memorial_tcc_ken.aux
- : \bibstyle
- :          {abntex2-}
-I'm skipping whatever remains of this command
-Database file #1: biblio_bas_seminario_monografia.bib
+Database file #1: abntex2-options.bib
+Database file #2: biblio_bas_seminario_monografia.bib
 Warning--entry type for "binus_2014" isn't style-file defined
 --line 5 of file biblio_bas_seminario_monografia.bib
 Warning--entry type for "gregory_2014" isn't style-file defined
 --line 171 of file biblio_bas_seminario_monografia.bib
-Warning--I didn't find a database entry for "abnt-url-package=url"
-Warning--I didn't find a database entry for "abnt-verbatim-entry=no"
 +---------------------------------------------------------+
 | Estilo bibliográfico abntex2-alf.bst versão v-1.9.6           |
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://www.abntex.net.br/                               |
 +---------------------------------------------------------+
-(There was 1 error message)
+(There were 2 warnings)

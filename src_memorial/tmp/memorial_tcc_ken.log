@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.1.18)  28 JUN 2016 15:55
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.1.18)  28 JUN 2016 16:06
 entering extended mode
 **memorial_tcc_ken.tex
 (C:\Users\Fernando\git\memorialTcc\src_memorial\memorial_tcc_ken.tex
@@ -811,7 +811,7 @@ Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
 \c@LT@chunks=\count123
 \LT@p@ftn=\toks29
 )
-(C:\Users\Fernando\git\memorialTcc\src_memorial\steinmetz.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\steinmetz\steinmetz.sty"
 Package: steinmetz 2009/06/14 v1.0 Steinmetz symbol for electrotechnics
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\pict2e\pict2e.sty"
@@ -2266,7 +2266,7 @@ LaTeX Font Info:    Try loading font information for OT1+pcr on input line 260.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-<img/LOGO_PNG.png, id=70, 562.80263pt x 748.89787pt>
+<img/LOGO_PNG.png, id=74, 562.80263pt x 748.89787pt>
 File: img/LOGO_PNG.png Graphic file (type png)
  <use img/LOGO_PNG.png>
 Package pdftex.def Info: img/LOGO_PNG.png used on input line 317.
@@ -2352,28 +2352,15 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <13> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 528.
 
 
-LaTeX Warning: Citation `pete_2000' on page 4 undefined on input line 556.
-
-
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
 [4]
-
-LaTeX Warning: Citation `petprasit_2015' on page 5 undefined on input line 600.
-
-
-
-LaTeX Warning: Citation `verma_2015' on page 5 undefined on input line 608.
-
-
-LaTeX Warning: Citation `costa_2012' on page 5 undefined on input line 615.
-
 LaTeX Font Info:    Try loading font information for TS1+ptm on input line 616.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ts1ptm.fd"
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ts1ptm.fd"
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
 
@@ -2382,15 +2369,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[5]
-
-LaTeX Warning: Citation `gao_2009' on page 6 undefined on input line 624.
-
-
-LaTeX Warning: Citation `thamviset_2012' on page 6 undefined on input line 630.
-
-
-<img/rede_petri_teoria.pdf, id=158, 456.23997pt x 396.48918pt>
+[5] <img/rede_petri_teoria.pdf, id=179, 456.23997pt x 396.48918pt>
 File: img/rede_petri_teoria.pdf Graphic file (type pdf)
 
 <use img/rede_petri_teoria.pdf>
@@ -2401,39 +2380,20 @@ Package pdftex.def Info: img/rede_petri_teoria.pdf used on input line 651.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-LaTeX Warning: Citation `sivanandam_2004' on page 6 undefined on input line 671
-.
-
-
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[6]
-
-LaTeX Warning: Citation `oded_2007' on page 7 undefined on input line 677.
-
-<img/soft_computing_family.pdf, id=163, 362.34581pt x 359.50056pt>
+[6] <img/soft_computing_family.pdf, id=191, 362.34581pt x 359.50056pt>
 File: img/soft_computing_family.pdf Graphic file (type pdf)
 
 <use img/soft_computing_family.pdf>
 Package pdftex.def Info: img/soft_computing_family.pdf used on input line 688.
 (pdftex.def)             Requested size: 155.80565pt x 154.58221pt.
-LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <8> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 688.
-
-
-LaTeX Warning: Citation `kunjal_2013' on page 7 undefined on input line 688.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: Citation `zadeh_1996' on page 7 undefined on input line 702.
-
-
-LaTeX Warning: Citation `devendra_2008' on page 7 undefined on input line 704.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2442,18 +2402,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [7 <C:/Users/Fernando/git/memorialTcc/src_memorial/img/rede_petri_teoria.pdf>]
-<img/abordagem_top_down.pdf, id=188, 421.61292pt x 342.42894pt>
+<img/abordagem_top_down.pdf, id=224, 421.61292pt x 342.42894pt>
 File: img/abordagem_top_down.pdf Graphic file (type pdf)
 
 <use img/abordagem_top_down.pdf>
 Package pdftex.def Info: img/abordagem_top_down.pdf used on input line 715.
 (pdftex.def)             Requested size: 231.88782pt x 188.33649pt.
-
-
-LaTeX Warning: Citation `devendra_2008' on page 8 undefined on input line 715.
-
-
-LaTeX Warning: Citation `kunjal_2013' on page 8 undefined on input line 727.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2464,24 +2418,6 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [8 <C:/Users/Fernando/git/memorialTcc/src_memorial/img/soft_computing_family.pd
 f> <C:/Users/Fernando/git/memorialTcc/src_memorial/img/abordagem_top_down.pdf>]
 
-LaTeX Warning: Citation `kevin_2012' on page 9 undefined on input line 745.
-
-
-LaTeX Warning: Citation `shai_2014' on page 9 undefined on input line 750.
-
-
-LaTeX Warning: Citation `stephen_2015' on page 9 undefined on input line 757.
-
-
-LaTeX Warning: Citation `stephen_2015' on page 9 undefined on input line 760.
-
-
-LaTeX Warning: Citation `shai_2014' on page 9 undefined on input line 767.
-
-
-LaTeX Warning: Citation `kevin_2012' on page 9 undefined on input line 773.
-
-
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
@@ -2489,37 +2425,16 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [9]
 
-LaTeX Warning: Citation `mohammed_2014' on page 10 undefined on input line 795.
-
-
-
-LaTeX Warning: Citation `anand_2012' on page 10 undefined on input line 799.
-
-
-LaTeX Warning: Citation `jiawei_2012' on page 10 undefined on input line 805.
-
-
-LaTeX Warning: Citation `jiawei_2012' on page 10 undefined on input line 808.
-
-
-LaTeX Warning: Citation `umair_2014' on page 10 undefined on input line 810.
-
-<img/kdd.pdf, id=222, 550.13403pt x 220.08205pt>
-File: img/kdd.pdf Graphic file (type pdf)
- <use img/kdd.pdf>
-Package pdftex.def Info: img/kdd.pdf used on input line 826.
-(pdftex.def)             Requested size: 286.07133pt x 114.44331pt.
-
-
-LaTeX Warning: Citation `fayyad_1996' on page 10 undefined on input line 826.
-
-
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[10]
+[10] <img/kdd.pdf, id=301, 550.13403pt x 220.08205pt>
+File: img/kdd.pdf Graphic file (type pdf)
+ <use img/kdd.pdf>
+Package pdftex.def Info: img/kdd.pdf used on input line 826.
+(pdftex.def)             Requested size: 286.07133pt x 114.44331pt.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 833.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.3> not available
@@ -2527,32 +2442,15 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.3> not available
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5.5> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 833.
 LaTeX Font Info:    Try loading font information for T1+pcr on input line 833.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1pcr.fd"
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1pcr.fd"
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
-<img/semma.pdf, id=231, 572.04266pt x 261.39546pt>
+<img/semma.pdf, id=307, 572.04266pt x 261.39546pt>
 File: img/semma.pdf Graphic file (type pdf)
  <use img/semma.pdf>
 Package pdftex.def Info: img/semma.pdf used on input line 840.
 (pdftex.def)             Requested size: 286.02063pt x 130.6974pt.
-
-
-LaTeX Warning: Citation `binus_2014' on page 11 undefined on input line 840.
-
-
-LaTeX Warning: Citation `pete_2000' on page 11 undefined on input line 846.
-
-
-LaTeX Warning: Citation `gregory_2014' on page 11 undefined on input line 851.
-
-<img/crisp-dm.pdf, id=240, 430.54703pt x 270.55725pt>
-File: img/crisp-dm.pdf Graphic file (type pdf)
- <use img/crisp-dm.pdf>
-Package pdftex.def Info: img/crisp-dm.pdf used on input line 858.
-(pdftex.def)             Requested size: 258.3302pt x 162.33559pt.
-
-
-LaTeX Warning: Citation `david_2008' on page 11 undefined on input line 858.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2562,14 +2460,11 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [11 <C:/Users/Fernando/git/memorialTcc/src_memorial/img/kdd.pdf> <C:/Users/Fern
 ando/git/memorialTcc/src_memorial/img/semma.pdf>]
-
-LaTeX Warning: Citation `david_2008' on page 12 undefined on input line 866.
-
-
-LaTeX Warning: Citation `gregory_2014' on page 12 undefined on input line 898.
-
-
-LaTeX Warning: Citation `bing_2004' on page 12 undefined on input line 907.
+<img/crisp-dm.pdf, id=363, 430.54703pt x 270.55725pt>
+File: img/crisp-dm.pdf Graphic file (type pdf)
+ <use img/crisp-dm.pdf>
+Package pdftex.def Info: img/crisp-dm.pdf used on input line 858.
+(pdftex.def)             Requested size: 258.3302pt x 162.33559pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2578,14 +2473,11 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [12 <C:/Users/Fernando/git/memorialTcc/src_memorial/img/crisp-dm.pdf>]
-<img/taxonomia.pdf, id=298, 722.95602pt x 380.41331pt>
+<img/taxonomia.pdf, id=393, 722.95602pt x 380.41331pt>
 File: img/taxonomia.pdf Graphic file (type pdf)
  <use img/taxonomia.pdf>
 Package pdftex.def Info: img/taxonomia.pdf used on input line 932.
 (pdftex.def)             Requested size: 433.77696pt x 228.24974pt.
-
-
-LaTeX Warning: Citation `patel_2011' on page 13 undefined on input line 932.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2600,7 +2492,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[14] <img/modelo_arquivo_wikipedia.pdf, id=326, 459.08519pt x 163.17654pt>
+[14] <img/modelo_arquivo_wikipedia.pdf, id=425, 459.08519pt x 163.17654pt>
 File: img/modelo_arquivo_wikipedia.pdf Graphic file (type pdf)
 
 <use img/modelo_arquivo_wikipedia.pdf>
@@ -2628,14 +2520,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [15 <C:/Users/Fernando/git/memorialTcc/src_memorial/img/modelo_arquivo_wikipedi
 a.pdf>]
 
-LaTeX Warning: Citation `petprasit_2015' on page 16 undefined on input line 106
-2.
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
-
-LaTeX Warning: Citation `petprasit_2015' on page 16 undefined on input line 108
-1.
-
-<img/rede_petri_funcionamento.pdf, id=351, 601.34904pt x 276.98758pt>
+[16] <img/rede_petri_funcionamento.pdf, id=459, 601.34904pt x 276.98758pt>
 File: img/rede_petri_funcionamento.pdf Graphic file (type pdf)
 
 <use img/rede_petri_funcionamento.pdf>
@@ -2644,23 +2534,29 @@ Package pdftex.def Info: img/rede_petri_funcionamento.pdf used on input line 10
 (pdftex.def)             Requested size: 330.743pt x 152.34363pt.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[16]
-
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
 [17 <C:/Users/Fernando/git/memorialTcc/src_memorial/img/rede_petri_funcionament
-o.pdf>]
+o.pdf>] (C:\Users\Fernando\git\memorialTcc\src_memorial\memorial_tcc_ken.bbl
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[18
+
+])
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[19]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1129.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 1129.
  (C:\Users\Fernando\git\memorialTcc\src_memorial\memorial_tcc_ken.aux)
@@ -2668,31 +2564,26 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1129.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1129.
 
 Package rerunfilecheck Info: File `memorial_tcc_ken.out' has not changed.
-(rerunfilecheck)             Checksum: FFAF14A23F72F5FB8A9CAB8FF0614C81;1012.
-
-
-LaTeX Warning: There were undefined references.
-
+(rerunfilecheck)             Checksum: 48BECE3AF91637DC4873C6AEDD35A757;1065.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1129.
  ) 
 Here is how much of TeX's memory you used:
- 44117 strings out of 494045
- 926183 string characters out of 3148378
- 1225926 words of memory out of 3000000
- 46622 multiletter control sequences out of 15000+200000
- 104543 words of font info for 136 fonts, out of 3000000 for 9000
+ 44221 strings out of 494045
+ 928083 string characters out of 3148378
+ 1228926 words of memory out of 3000000
+ 46696 multiletter control sequences out of 15000+200000
+ 103419 words of font info for 135 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 53i,18n,92p,10404b,925s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 53i,18n,92p,10404b,957s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
 s/MiKTeX 2.9/fonts/type1/public/txfonts/txsy.pfb><C:/Program Files/MiKTeX 2.9/f
 onts/type1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/
-times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb
-><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program File
-s/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb><C:/Program Files/MiKTeX 2.9/fon
-ts/type1/urw/zapfding/uzdr.pfb>
-Output written on memorial_tcc_ken.pdf (20 pages, 534104 bytes).
+times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/urw/zapfding/uzdr.pfb>
+Output written on memorial_tcc_ken.pdf (22 pages, 558760 bytes).
 PDF statistics:
- 413 PDF objects out of 1000 (max. 8388607)
- 57 named destinations out of 1000 (max. 500000)
- 191 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 533 PDF objects out of 1000 (max. 8388607)
+ 85 named destinations out of 1000 (max. 500000)
+ 199 words of extra memory for PDF output out of 10000 (max. 10000000)
 
