@@ -37,8 +37,8 @@
 \providecommand{\tabularnewline}{\\}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Textclass specific LaTeX commands.
-%\numberwithin{figure}{section}
-%\numberwithin{table}{section}
+\numberwithin{figure}{section}
+\numberwithin{table}{section}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%% User specified LaTeX commands.
 %\usepackage{hyperref}
@@ -256,19 +256,14 @@
 \makeatother
 
 \usepackage{babel}
-
 \begin{document}
+	
+	
 	\newcommand*\ntcc{Extração, Classificação e Reconhecimento de Padrões
 		de Informação Contida em Artigos Acadêmicos Utilizando Mineração Web
 		de Conteúdo e Mineração Web de Uso}
 	
 	\newcommand*\nautor{Ken Esparta Ccorahua}
-	
-	\newcommand{\token}{
-		{
-			\em{token}
-		}
-	}
 	
 	\newcommand{\fonteProp}{
 		{
@@ -390,7 +385,7 @@
 				Memorial de Monografia apresentado à disciplina de Seminário de Monografia
 				do Curso Engenharia da Computação como requisito parcial para obtenção
 				do grau de Engenheiro da Computação na Universidade Federal do Ceará,
-				\emph{Campus} Sobral.%
+				\emph{campus} Sobral.%
 			\end{minipage}
 			\par\end{flushright}
 		
@@ -594,46 +589,54 @@
 		
 		\section{Trabalhos relacionados}
 		
-		\begin{itemize}[leftmargin=1.9cm,labelwidth=2cm,labelindent=1.5em,labelsep=0.55cm]
-			
-			\item No artigo acadêmico intitulado \emph{“E-commerce Web page classification
-				based on automatic content extraction”} referenciado em \cite{petprasit_2015},
-			propõe-se o método Markov Random Field para reduzir o número de caraterísticas
-			no conjunto de dados que foram extraídos da Web utilizando o método
-			Subject Detection and Node Density. Em seguida, faz-se uma comparação
-			de performance entre as redes neurais Radial Basis Function e Support
-			Vector Machine com o método Naive Bayes.
-			
-			\item No artigo acadêmico intitulado \emph{“E-commerce website ranking
-				using Semantic Web mining and neural computing”} referenciado em \cite{verma_2015},
-			utilizam-se redes neurais, mineração Web de uso e de conteúdo para
-			desenvolver uma aplicação Web de determinação de prioridade de diferentes
-			páginas Web de comércio eletrônico.
-			
-			\item No artigo acadêmico intitulado \emph{“A framework for building
-				Web mining applications in the world of blogs: A case study in product
-				sentiment analysis”} referenciado em \cite{costa_2012}, descreve-se
-			um framework desenvolvido na linguagem Java™ que utiliza os serviços
-			da mineração Web semântica para ajudar a usuários de blogs na busca
-			efetiva de informação relevante no mundo dos blogs. Esse framework
-			utiliza uma interface de aplicação, um controlador de mineração de
-			dados na Web (Web crawler) e um extrator de textos.
-			
-			\item No artigo acadêmico intitulado \emph{“Web Classification Mining
-				Based on Radial Basis Probabilistic Neural Network”} referenciado
-			em \cite{gao_2009}, utiliza-se o método K-Nearest Neighbor (KNN)
-			modificado para treinar a rede neural do tipo Radial Basis Probabilistic;
-			os dados utilizados para classificação e treinamento foram extraídos
-			de mil páginas Web utilizando a mineração Web de conteúdo.
-			
-			\item No artigo acadêmico intitulado \emph{“Structured Web information
-				extraction using repetitive subject pattern”} referenciado em \cite{thamviset_2012}
-			propõe-se uma técnica semi supervisionada que cria um padrão de extração
-			de dados de páginas Web de comércio eletrônico. O sistema é composto
-			por um extrator de dados e um wrapper que traduz os conteúdos da Web
-			para tabelas do tipo relacionais.
-			
-		\end{itemize}
+		No artigo acadêmico intitulado \emph{“E-commerce Web page classification
+			based on automatic content extraction”} referenciado em \cite{petprasit_2015},
+		propõe-se o método Markov Random Field para reduzir o número de caraterísticas
+		no conjunto de dados que foram extraídos da Web utilizando o método
+		Subject Detection and  Density. Em seguida, faz-se uma comparação
+		de performance entre as redes neurais Radial Basis Function (RBF)
+		e Support Vector Machine com o método Naive Bayes. Utiliza-se, na
+		aplicação Web proposta, a rede neural RBF para poder minerar os web
+		logs da Wikipédia. Não se tem uma visão definida sobre a rede neural
+		a ser projetada porque o problema a ser resolvido não foi analisado
+		com detalhe.
+		
+		No artigo acadêmico intitulado \emph{“E-commerce website ranking using
+			Semantic Web mining and neural computing”} referenciado em \cite{verma_2015},
+		utilizam-se redes neurais, mineração Web de uso e de conteúdo para
+		desenvolver uma aplicação Web de determinação de prioridade de diferentes
+		páginas Web de comércio eletrônico. A implementação das técnicas de
+		mineração Web de uso e de conteúdo no presente trabalho, são inspiradas
+		nas técnicas propostas neste artigo.
+		
+		No artigo acadêmico intitulado \emph{“A framework for building Web
+			mining applications in the world of blogs: A case study in product
+			sentiment analysis”} referenciado em \cite{costa_2012}, desenvolve-se
+		um framework desenvolvido na linguagem Java™ que utiliza os serviços
+		da mineração Web semântica para ajudar a usuários de blogs na busca
+		efetiva de informação relevante no mundo dos blogs. Esse framework
+		utiliza uma interface de aplicação, um controlador de mineração de
+		dados na Web (Web \emph{crawler}) e um extrator de textos. No presente
+		trabalho, o Web \emph{crawler} e o extrator de textos serão implementados.
+		Por outra parte, a interface de usuário será desenvolvida para que
+		seja executada na Web.
+		
+		No artigo acadêmico intitulado \emph{“Web Classification Mining Based
+			on Radial Basis Probabilistic Neural Network”} referenciado em \cite{gao_2009},
+		utiliza-se o método K-Nearest Neighbor (KNN) modificado para treinar
+		a rede neural do tipo Radial Basis Probabilistic; os dados utilizados
+		para classificação e treinamento foram extraídos de mil páginas Web
+		utilizando a mineração Web de conteúdo. Será utilizado, no presente
+		trabalho, o método KNN para poder agrupar os dados dos Web logs da
+		Wikipédia.
+		
+		No artigo acadêmico intitulado \emph{“Structured Web information extraction
+			using repetitive subject pattern”} referenciado em \cite{thamviset_2012}
+		propõe-se uma técnica semi supervisionada que cria um padrão de extração
+		de dados de páginas Web de comércio eletrônico. O sistema é composto
+		por um extrator de dados e um wrapper que traduz os conteúdos da Web
+		para tabelas do tipo relacionais. O extrator de dados das páginas
+		Web do presente trabalho será inspirado no extrator deste artigo.
 		
 		
 		\section{Fundamentação teórica}
@@ -1014,11 +1017,10 @@
 		
 		
 		O resultado final é uma plataforma Web produzida inteiramente na linguagem
-		Python (versão 3.5) utilizando o framework Django. São implementadas,
-		na plataforma, as rotinas para a obtenção de dados, pré-processamento,
-		agrupamento, análise, obtenção de conhecimento e reconhecimento de
-		padrões de artigos relacionados com a Wikipédia e os Web logs dos
-		servidores desta.
+		Python utilizando o framework Django. São implementadas, na plataforma,
+		as rotinas para a obtenção de dados, pré-processamento, agrupamento,
+		análise, obtenção de conhecimento e reconhecimento de padrões de artigos
+		relacionados com a Wikipédia e os Web logs dos servidores desta.
 		
 		
 		
@@ -1028,7 +1030,7 @@
 		\label{sec:materiais_metodos}
 		
 		Como foi exposto na \cref{sec:python_biblio}, utiliza-se a linguagem
-		Python (versão 3.5) com as suas respectivas bibliotecas para realizar
+		Python (versão 2.7) com as suas respectivas bibliotecas para realizar
 		todas as tarefas descritas na secção 4.5. O programa final produzido
 		será executado num servidor Web fornecido por Digital Ocean (serviço
 		de computação na nuvem) com a interação do usuário final.
@@ -1123,7 +1125,7 @@
 		%\cleardoublepage
 		\phantomsection
 		
-		\bibliographystyle{abntex2-alf}	
- \addcontentsline{toc}{section}{\refname}\bibliography{biblio_bas_seminario_monografia}
+		\bibliographystyle{abntex2-alf}
+		\addcontentsline{toc}{section}{\refname}\bibliography{biblio_bas_seminario_monografia}
 		
 	\end{document}

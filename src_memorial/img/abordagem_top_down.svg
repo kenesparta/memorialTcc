@@ -143,16 +143,16 @@
      <g class="com.sun.star.drawing.CustomShape">
       <g id="id11">
        <rect class="BoundingBox" stroke="none" fill="none" x="12890" y="14591" width="3421" height="620"/>
-       <path fill="rgb(0,204,0)" fill-opacity="0.231" stroke="rgb(255,255,255)" stroke-opacity="0.231" d="M 13195,14600 L 16301,14600 16301,15201 13195,15201 13195,15020 13195,15020 13195,15020 12900,14900 13195,14780 13195,14780 13195,14780 13195,14600 Z M 12900,14600 L 12900,14600 Z M 16301,15201 L 16301,15201 Z"/>
-       <path fill="none" stroke="rgb(0,204,0)" stroke-width="18" stroke-linejoin="round" d="M 13195,14600 L 16301,14600 16301,15201 13195,15201 13195,15020 13195,15020 13195,15020 12900,14900 13195,14780 13195,14780 13195,14780 13195,14600 Z"/>
-       <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="13597" y="15022"><tspan fill="rgb(0,0,0)" stroke="none">Computadores</tspan></tspan></tspan></text>
+       <path fill="rgb(0,204,0)" fill-opacity="0.231" stroke="rgb(255,255,255)" stroke-opacity="0.231" d="M 13194,14600 L 16301,14600 16301,15201 13194,15201 13194,15020 13194,15020 13194,15020 12900,14900 13194,14780 13194,14780 13194,14780 13194,14600 Z M 12900,14600 L 12900,14600 Z M 16301,15201 L 16301,15201 Z"/>
+       <path fill="none" stroke="rgb(0,204,0)" stroke-width="18" stroke-linejoin="round" d="M 13194,14600 L 16301,14600 16301,15201 13194,15201 13194,15020 13194,15020 13194,15020 12900,14900 13194,14780 13194,14780 13194,14780 13194,14600 Z"/>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="13596" y="15022"><tspan fill="rgb(0,0,0)" stroke="none">Computadores</tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.CustomShape">
       <g id="id12">
        <rect class="BoundingBox" stroke="none" fill="none" x="12891" y="11239" width="3120" height="920"/>
-       <path fill="rgb(0,204,0)" fill-opacity="0.231" stroke="rgb(255,255,255)" stroke-opacity="0.231" d="M 13163,11248 L 16001,11248 16001,12149 13163,12149 13163,11798 13163,11798 13163,11812 12900,11698 13163,11584 13163,11598 13163,11598 13163,11248 Z M 12900,11248 L 12900,11248 Z M 16001,12149 L 16001,12149 Z"/>
-       <path fill="none" stroke="rgb(0,204,0)" stroke-width="18" stroke-linejoin="round" d="M 13163,11248 L 16001,11248 16001,12149 13163,12149 13163,11798 13163,11798 13163,11812 12900,11698 13163,11584 13163,11598 13163,11598 13163,11248 Z"/>
+       <path fill="rgb(0,204,0)" fill-opacity="0.231" stroke="rgb(255,255,255)" stroke-opacity="0.231" d="M 13163,11248 L 16001,11248 16001,12149 13163,12149 13163,11798 13163,11798 13163,11812 12900,11698 13163,11584 13163,11599 13163,11599 13163,11248 Z M 12900,11248 L 12900,11248 Z M 16001,12149 L 16001,12149 Z"/>
+       <path fill="none" stroke="rgb(0,204,0)" stroke-width="18" stroke-linejoin="round" d="M 13163,11248 L 16001,11248 16001,12149 13163,12149 13163,11798 13163,11798 13163,11812 12900,11698 13163,11584 13163,11599 13163,11599 13163,11248 Z"/>
        <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="13431" y="11623"><tspan fill="rgb(0,0,0)" stroke="none">Computadores </tspan></tspan><tspan class="TextPosition" x="13687" y="12017"><tspan fill="rgb(0,0,0)" stroke="none">Inteligentes</tspan></tspan></tspan></text>
       </g>
      </g>
@@ -200,7 +200,7 @@
      <g class="com.sun.star.drawing.TextShape">
       <g id="id19">
        <rect class="BoundingBox" stroke="none" fill="none" x="3093" y="9300" width="3416" height="646"/>
-       <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="3361" y="9743"><tspan fill="rgb(0,0,0)" stroke="none">Dimensional idade</tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="3389" y="9743"><tspan fill="rgb(0,0,0)" stroke="none">Dimensionamento</tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.TextShape">
