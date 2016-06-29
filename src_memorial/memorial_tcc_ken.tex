@@ -416,7 +416,7 @@
 		\setcounter{page}{1}
 		\thispagestyle{empty}
 		\phantomsection
-		\addcontentsline{toc}{section}{Lista de Figuras}
+		%\addcontentsline{toc}{section}{Lista de Figuras}
 		
 		\listoffigures
 		
@@ -430,7 +430,7 @@
 		\setcounter{page}{1}
 		\thispagestyle{empty}
 		\phantomsection
-		\addcontentsline{toc}{section}{Lista de Tabelas}
+		%\addcontentsline{toc}{section}{Lista de Tabelas}
 		
 		\listoftables
 		
@@ -443,7 +443,7 @@
 		\phantomsection
 		\thispagestyle{empty}
 		\phantomsection
-		\addcontentsline{toc}{section}{Lista de abreviaturas e siglas}
+		%\addcontentsline{toc}{section}{Lista de abreviaturas e siglas}
 		\renewcommand{\nomname}{Lista de abreviaturas e siglas} 
 		
 		\printnomenclature[2.5cm]{}
@@ -483,7 +483,7 @@
 		contexto que se aplica o processo de mineração de dados.
 		
 		Existem também os Web logs, que são as informações armazenadas através
-		do tempo, relacionadas ao servidor que estão em ordem cronologicamente
+		do tempo, relacionados ao servidor que estão em ordem cronologicamente
 		descendente. Para minerar os dados no Web log, utiliza-se a mineração
 		Web de uso. No presente trabalho utiliza-se o Web log de artigos da
 		Wikipédia.
@@ -618,7 +618,7 @@
 		utiliza uma interface de aplicação, um controlador de mineração de
 		dados na Web (Web \emph{crawler}) e um extrator de textos. No presente
 		trabalho, o Web \emph{crawler} e o extrator de textos serão implementados.
-		Por outro lado, a interface de usuário será desenvolvida para que
+		Por outra parte, a interface de usuário será desenvolvida para que
 		seja executada na Web.
 		
 		No artigo acadêmico intitulado \emph{“Web Classification Mining Based
@@ -634,18 +634,19 @@
 			using repetitive subject pattern”} referenciado em \cite{thamviset_2012}
 		propõe-se uma técnica semi supervisionada que cria um padrão de extração
 		de dados de páginas Web de comércio eletrônico. O sistema é composto
-		por um extrator de dados e um \emph{wrapper} que traduz os conteúdos da Web
-		para tabelas do tipo relacionais. O extrator de dados das páginas
+		por um extrator de dados e um \emph{wrapper} que traduz os conteúdos
+		da Web para tabelas do tipo relacionais. O extrator de dados das páginas
 		Web do presente trabalho será inspirado no extrator deste artigo.
 		
 		
 		\section{Fundamentação teórica}
 		
-		A seguir, apresentamos breves definições sobre os assuntos teóricos
-		relacionados com a monografia, utilizando-se uma abordagem \emph{top-down}
-		como pode-se observar na \cref{fig:organ_teorica}, e exibimos uma rede de
-		Petri que representa a montagem teórica do presente trabalho, na qual o
-		estado inicial é o mais genérico e o estado final é o mais específico. 
+		A seguir, apresentam-se breves definições sobre os assuntos teóricos
+		relacionados com a monografia, utilizando-se uma abordagem top-down
+		como pode-se observar na \cref{fig:organ_teorica}, e exibe-se uma
+		rede de Petri que representa a montagem teórica do presente trabalho,
+		na qual o estado inicial é o mais genérico e o estado final é o mais
+		específico. 
 		
 		\captionsetup{width=0.7\textwidth}
 		\begin{figure}[h]
@@ -677,11 +678,11 @@
 		Em contraste, o paradigma da SC trata sobre solucionar problemas utilizando
 		modelos imprecisos que possuem certa porcentagem de aproximação.
 		
-		Cataloga-se a SC em \cite{oded_2007} como uma coleção de novas
-		técnicas em inteligência artificial que exploram a tolerância para
-		a imprecisão, incerteza, verdade parcial e manipulação de não linearidades
-		para poder alcançar rastreabilidade, robustez e soluções de menor
-		custo comparado com os métodos da HC, ou seja, apresenta-se uma coleção
+		Cataloga-se a SC em \cite{oded_2007} como uma coleção de novas técnicas
+		em inteligência artificial que exploram a tolerância para a imprecisão,
+		incerteza, verdade parcial e manipulação de não linearidades para
+		poder alcançar rastreabilidade, robustez e soluções de menor custo
+		comparado com os métodos da HC, ou seja, apresenta-se uma coleção
 		de ferramentas aptas para minerar a Web porque esta encaixa-se nas
 		definições de imprecisão, incerteza e veracidade duvidosa.
 		
@@ -692,12 +693,11 @@
 		\end{figure}
 		
 		
-		A SC é composta por técnicas como as redes neurais (Neural
-		Networks\nomenclature[NN]{NN}{Neural Networks}), computação evolucionária
-		(Evolutionary Computing\nomenclature[EC]{EC}{Evolutionary Computing}), sistemas
-		difusos (Fuzzy Systems\nomenclature[FS]{FS}{Fuzzy Systems}) e raciocínio
-		probabilístico (Probabilistic Reasoning\nomenclature[PR]{PR}{Probabilistic
-		Reasoning}), como mostrado na \cref{fig:sc_comp}.
+		A SC é composta por técnicas como as redes neurais (Neural Network\nomenclature[NN]{NN}{Neural Network}),
+		computação evolucionária (Evolutionary Computing\nomenclature[EC]{EC}{Evolutionary Computing}),
+		sistemas difusos (Fuzzy Systems\nomenclature[FS]{FS}{Fuzzy Systems})
+		e raciocínio probabilístico (Probabilistic Reasoning\nomenclature[PR]{PR}{Probabilistic Reasoning}),
+		como mostrado na \cref{fig:sc_comp}.
 		
 		As técnicas mostradas na \cref{fig:sc_comp}, nem sempre estão isoladas.
 		Elas podem ser aplicadas ao mesmo tempo para resolver um mesmo problema,
@@ -742,7 +742,7 @@
 		
 		A ficha encontra-se no seguinte estado, contendo já a teoria de uma
 		rede neural. Nesta seção trata-se sobre as técnicas que serão adotadas
-		do aprendizado de máquina (Machine Learning ou ML).
+		do aprendizado de máquina (Machine Learning).
 		
 		O aprendizado automático ou aprendizado de máquina é um programa de
 		computador que pode “aprender” de um conjunto de entradas disponíveis.
@@ -766,11 +766,11 @@
 		se tornem mais precisas. A precisão é medida por quão bem a escolha
 		de ações refletem as escolhas corretas.
 		
-		Saber em que momento precisa-se do ML é fundamental	porque justifica a
-		utilização dos conceitos de ML no trabalho. Em
-		\cite{shai_2014}, sugere-se que os conceitos de ML devem ser utilizados em
-		tarefas realizadas por humanos ou animais. De acordo com isso, precisa-se do
-		ML para poder modelar os algoritmos deste trabalho, de modo que utilizam-se 
+		Saber em que momento precisa-se do ML é fundamental porque justifica
+		a utilização dos conceitos de ML no trabalho. Em \cite{shai_2014},
+		sugere-se que os conceitos de ML devem ser utilizados em tarefas realizadas
+		por humanos ou animais. De acordo com isso, precisa-se do ML para
+		poder modelar os algoritmos deste trabalho, de modo que utilizam-se
 		dados gerados pela interação humana com a Web a partir de buscas.
 		
 		De acordo com \cite{kevin_2012}, o aprendizado de máquina divide-se,
@@ -780,8 +780,8 @@
 		das entradas, dado um conjunto de treinamento. A segunda abordagem
 		de ML, a não supervisionada ou descritiva, tem como objetivo encontrar
 		padrões e correlações entre os dados. Finalmente, a abordagem de aprendizado
-		por reforço, trata-se do modo de agir ou se comportar diante de uma situação
-		de recompensa ou de punição.
+		por reforço, trata-se do modo de agir ou se comportar diante de uma
+		situação de recompensa ou de punição.
 		
 		A atividade de classificar e extrair conhecimento a partir do conteúdo
 		de páginas Web da Wikipédia justifica a escolha da utilização das
@@ -805,7 +805,7 @@
 		a abordagem de aprendizado de máquina, esta decisão justifica-se na
 		\cref{sec:aprendizado_maquina}. 
 		
-		Uma analogia da mineração de dados faz-se em \cite{jiawei_2012}
+		Uma analogia da mineração de dados faz-se em \cite{jiawei_2012},
 		com a obtenção de ouro das rochas em uma mina. Ademais, enfatiza-se
 		que o nome apropriado para mineração de dados é “conhecimento minerado
 		a partir de dados”. Segundo \cite{jiawei_2012}, a descoberta de conhecimento
@@ -820,8 +820,8 @@
 			\item [{KDD\nomenclature[KDD]{KDD}{knowledge discovery from data}}]
 			É um modelo de processo que consiste na extração de conhecimentos
 			escondidos a partir de um banco de dados. Deve ser um processo interativo
-			e iterativo, e possui cinco passos de desenvolvimento que se podem observar
-			na \cref{fig:KDD}.
+			e iterativo, e possui cinco passos de desenvolvimento que se podem
+			observar na \cref{fig:KDD}.
 			
 			\captionsetup{width=0.7\textwidth}
 			\begin{figure}[H]
@@ -864,8 +864,8 @@
 			
 		\end{description}
 		
-		Para passar ao seguinte estado da rede de Petri estabelecida, de acordo com a
-		\cref{fig:organ_teorica}, é necessário adotar um tipo de processo
+		Para passar ao seguinte estado da rede de Petri estabelecida, de acordo
+		com a \cref{fig:organ_teorica}, é necessário adotar um tipo de processo
 		de mineração de dados. Como é mencionado em \cite{david_2008}, nas
 		três metodologias que foram abarcadas, não há obrigação de seguir
 		de forma rígida seus respectivos passos. Afinal, optou-se por seguir
@@ -884,7 +884,7 @@
 				\midrule 
 				CRISP-DM & 42.0 & 43.0\tabularnewline
 				\midrule
-				Própria & 19.0 & 27.5\tabularnewline
+				Criada por mim & 19.0 & 27.5\tabularnewline
 				\midrule
 				SEMMA & 13.0 & 8.5\tabularnewline
 				\midrule
@@ -892,7 +892,7 @@
 				\midrule
 				Processo KDD & 7.3 & 7.5\tabularnewline
 				\midrule
-				Minha organização & 5.3 & 3.5\tabularnewline
+				Criada pela organização onde trabalho & 5.3 & 3.5\tabularnewline
 				\midrule 
 				Específica de domínio & 4.7 & 2.0\tabularnewline
 				\midrule 
@@ -901,32 +901,31 @@
 			\end{tabular}\\\vspace{0.2em}\fonte{\cite{gregory_2014}}
 		\end{table}
 		
-% @FR Explicar a diferença entre `Própria' e 'Minha organização' na tabela 5.1
-% acima
+		
 		
 		\subsection{Mineração na Web}
 		
 		A mineração na Web ou Web mining, é um conjunto de ferramentas adicionais
 		à mineração de dados que, como o nome indica, permitem a descoberta
 		de conhecimento utilizando recursos obtidos da Web. Em \cite{bing_2004}
-		explica-se que mineração na Web trata do processo de descoberta de informação
-		útil e relevante a partir de estruturas de hiper-referências, conteúdo das
-		páginas e dados de uso de clientes. Justamente essas três fontes de
-		extração de informação fazem referência às três categorias de mineração
-		na Web mostradas a seguir, conforme a \cref{fig:Web_mining_taxonomia}:
+		explica-se que mineração na Web trata do processo de descoberta de
+		informação útil e relevante a partir de estruturas de hiper-referências,
+		conteúdo das páginas e dados de uso de clientes. Justamente essas
+		três fontes de extração de informação fazem referência às três categorias
+		de mineração na Web mostradas a seguir, conforme a \cref{fig:Web_mining_taxonomia}:
 		
 		\begin{description}[style=multiline,leftmargin=2.5cm]
 			
-			\item [{Conteúdo}] Ou Web Content Mining (WUM {\it ou WCM?} @FR), é a
-			extração de informação valiosa a partir de informação alocada em páginas Web.
+			\item [{Conteúdo}] Ou Web Content mining (WCM), é a extração de
+			informação valiosa a partir de informação alocada em páginas Web.
 			
-			\item [{Estrutura}] Ou Web Structure Mining (WSM\nomenclature[WSM]{WSM}{Web
-			Structure Mining}), nesta técnica considera-se uma página Web como um nó e as referências
+			\item [{Estrutura}] Ou Web Structure mining (WSM\nomenclature[WSM]{WSM}{Web Structure Mining}),
+			nesta técnica considera-se uma página Web como um nó e as referências
 			entre diversas páginas como as arestas que as juntam. 
 			
-			\item [{Uso}] Ou Web Usage Mining (WUM), refere-se ao descobrimento
+			\item [{Uso}] Ou Web Usage mining (WUM), refere-se ao descobrimento
 			de padrões de acessos do usuário ao servidor, ou seja extração de
-			padrões de Web logs. 
+			padrões de Web logs.
 			
 		\end{description}
 		
@@ -1041,17 +1040,17 @@
 		
 		
 		
-		\begin{description}[style=multiline,leftmargin=3.5cm]
+		\begin{description}[style=multiline,leftmargin=4cm]
 			
-			\item [{Compreensão do negócio }] Deseja-se aprimorar as buscas
-			de artigos acadêmicos dos usuários baseando-se na mineração de Web
-			logs da wikipédia e na mineração de páginas Web relacionadas. Utiliza-se
+			\item [{Compreensão do projeto}] Deseja-se aprimorar as buscas de
+			artigos acadêmicos dos usuários baseando-se na mineração de Web logs
+			da wikipédia e na mineração de páginas Web relacionadas. Utiliza-se
 			a técnica de mineração de dados porque as informações das páginas
 			Web maiormente tem informações irrelevantes. 
 			
-			\item [{Compreensão dos dados}] Os dados vem de duas fontes: Web
-			logs da Wikipédia, que são dados homogêneos e da mineração Web de
-			conteúdo de artigos acadêmicos, que são dados heterogêneos.
+			\item [{Análise dos dados}] Os dados vem de duas fontes: Web logs
+			da Wikipédia, que são dados homogêneos e da mineração Web de conteúdo
+			de artigos acadêmicos, que são dados heterogêneos.
 			
 			\item [{Preparação dos dados}]Aplicam-se técnicas de filtragem nos
 			bancos de dados de Web logs da Wikipédia e os que foram obtidos a
@@ -1109,9 +1108,9 @@
 				\textbf{Atividade} & \textbf{Data}\tabularnewline
 				\midrule
 				\midrule 
-				Compreensão do negócio  & 01/06/2016 $\longrightarrow$ 14/07/2016\tabularnewline
+				Compreensão do Projeto  & 01/06/2016 $\longrightarrow$ 14/07/2016\tabularnewline
 				\midrule
-				Compreensão dos dados  & 15/07/2016 $\longrightarrow$ 02/08/2016\tabularnewline
+				Análise dos dados  & 15/07/2016 $\longrightarrow$ 02/08/2016\tabularnewline
 				\midrule
 				Preparação dos dados  & 03/08/2016 $\longrightarrow$ 14/08/2016\tabularnewline
 				\midrule
