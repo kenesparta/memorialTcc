@@ -7,6 +7,8 @@ Scanning style file C:/Program Files/MiKTeX 2.9/makeindex/nomencl/nomencl.ist...
 ** Input style error (file = C:/Program Files/MiKTeX 2.9/makeindex/nomencl/nomencl.ist, line = 72):
    -- Unknown specifier lethead_flag.
 ...done (10 attributes redefined, 3 ignored).
-Scanning input file memorial_tcc_ken.nlo...done (0 entries accepted, 0 rejected).
-Nothing written in memorial_tcc_ken.nls.
+Scanning input file memorial_tcc_ken.nlo....done (18 entries accepted, 0 rejected).
+Sorting entries....done (78 comparisons).
+Generating output file memorial_tcc_ken.nls....done (71 lines written, 0 warnings).
+Output written in memorial_tcc_ken.nls.
 Transcript written in memorial_tcc_ken.ilg.

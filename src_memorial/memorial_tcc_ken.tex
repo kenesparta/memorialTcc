@@ -483,7 +483,7 @@
 		contexto que se aplica o processo de mineração de dados.
 		
 		Existem também os Web logs, que são as informações armazenadas através
-		do tempo relacionadas ao servidor que estão em ordem cronologicamente
+		do tempo, relacionadas ao servidor que estão em ordem cronologicamente
 		descendente. Para minerar os dados no Web log, utiliza-se a mineração
 		Web de uso. No presente trabalho utiliza-se o Web log de artigos da
 		Wikipédia.
@@ -612,13 +612,13 @@
 		No artigo acadêmico intitulado \emph{“A framework for building Web
 			mining applications in the world of blogs: A case study in product
 			sentiment analysis”} referenciado em \cite{costa_2012}, desenvolve-se
-		um framework desenvolvido na linguagem Java™ que utiliza os serviços
+		um framework implementado na linguagem Java™ que utiliza os serviços
 		da mineração Web semântica para ajudar a usuários de blogs na busca
 		efetiva de informação relevante no mundo dos blogs. Esse framework
 		utiliza uma interface de aplicação, um controlador de mineração de
 		dados na Web (Web \emph{crawler}) e um extrator de textos. No presente
 		trabalho, o Web \emph{crawler} e o extrator de textos serão implementados.
-		Por outra parte, a interface de usuário será desenvolvida para que
+		Por outro lado, a interface de usuário será desenvolvida para que
 		seja executada na Web.
 		
 		No artigo acadêmico intitulado \emph{“Web Classification Mining Based
@@ -634,17 +634,17 @@
 			using repetitive subject pattern”} referenciado em \cite{thamviset_2012}
 		propõe-se uma técnica semi supervisionada que cria um padrão de extração
 		de dados de páginas Web de comércio eletrônico. O sistema é composto
-		por um extrator de dados e um wrapper que traduz os conteúdos da Web
+		por um extrator de dados e um \emph{wrapper} que traduz os conteúdos da Web
 		para tabelas do tipo relacionais. O extrator de dados das páginas
 		Web do presente trabalho será inspirado no extrator deste artigo.
 		
 		
 		\section{Fundamentação teórica}
 		
-		Apresentam-se breves definições sobre os assuntos teóricos relacionados
-		com a monografia, utiliza-se uma abordagem \emph{top-down} como pode-se
-		observar na \cref{fig:organ_teorica}, mostra-se uma rede de Petri
-		que representa a montagem teórica do presente trabalho, na qual o
+		A seguir, apresentamos breves definições sobre os assuntos teóricos
+		relacionados com a monografia, utilizando-se uma abordagem \emph{top-down}
+		como pode-se observar na \cref{fig:organ_teorica}, e exibimos uma rede de
+		Petri que representa a montagem teórica do presente trabalho, na qual o
 		estado inicial é o mais genérico e o estado final é o mais específico. 
 		
 		\captionsetup{width=0.7\textwidth}
@@ -657,7 +657,7 @@
 		
 		Na rede de Petri proposta, observa-se também que cada estado representa
 		uma área das Ciências da Computação a qual possui ferramentas teóricas
-		as quais serão adotadas para que a ficha posa ativar as transições.
+		as quais serão adotadas para que a ficha possa ativar as transições.
 		Cada transição representa uma ferramenta que será adquirida do estado
 		anterior antes de passar ao próximo. Em outras palavras, a ficha pode
 		passar somente ao estado seguinte quando uma ferramenta específica
@@ -670,18 +670,18 @@
 		(SC) e a Hard Computing (HC\nomenclature[HC]{HC}{Hard Computing}),
 		ambos os termos foram estabelecidos pela primeira vez pelo professor
 		L. A. Zadeh no ano 1996. O HC trata sobre modelos precisos em que
-		as soluções são atingidas imediatamente, por outra parte, a SC lida
+		as soluções são atingidas imediatamente. Por outro lado, a SC lida
 		com modelos de aproximações e dá soluções a problemas complexos \cite{sivanandam_2004}.
 		Como pode-se perceber, a HC é basicamente a computação convencional
 		de modo que a solução dos problemas baseia-se nos princípios da precisão.
 		Em contraste, o paradigma da SC trata sobre solucionar problemas utilizando
 		modelos imprecisos que possuem certa porcentagem de aproximação.
 		
-		Cataloga-se a SC, em \cite{oded_2007}, como uma coleção de novas
+		Cataloga-se a SC em \cite{oded_2007} como uma coleção de novas
 		técnicas em inteligência artificial que exploram a tolerância para
 		a imprecisão, incerteza, verdade parcial e manipulação de não linearidades
 		para poder alcançar rastreabilidade, robustez e soluções de menor
-		custo comparado com os métodos da HC, ou seja apresenta-se uma coleção
+		custo comparado com os métodos da HC, ou seja, apresenta-se uma coleção
 		de ferramentas aptas para minerar a Web porque esta encaixa-se nas
 		definições de imprecisão, incerteza e veracidade duvidosa.
 		
@@ -692,11 +692,12 @@
 		\end{figure}
 		
 		
-		A SC está composta por técnicas como a rede neural (Neural Network\nomenclature[NN]{NN}{Neural Network}),
-		computação evolucionária (Evolutionary Computing\nomenclature[EC]{EC}{Evolutionary Computing}),
-		sistemas difusos (Fuzzy Systems\nomenclature[FS]{FS}{Fuzzy Systems})
-		e raciocínio probabilístico (Probabilistic Reasoning\nomenclature[PR]{PR}{Probabilistic Reasoning}),
-		como mostrado na \cref{fig:sc_comp}.
+		A SC é composta por técnicas como as redes neurais (Neural
+		Networks\nomenclature[NN]{NN}{Neural Networks}), computação evolucionária
+		(Evolutionary Computing\nomenclature[EC]{EC}{Evolutionary Computing}), sistemas
+		difusos (Fuzzy Systems\nomenclature[FS]{FS}{Fuzzy Systems}) e raciocínio
+		probabilístico (Probabilistic Reasoning\nomenclature[PR]{PR}{Probabilistic
+		Reasoning}), como mostrado na \cref{fig:sc_comp}.
 		
 		As técnicas mostradas na \cref{fig:sc_comp}, nem sempre estão isoladas.
 		Elas podem ser aplicadas ao mesmo tempo para resolver um mesmo problema,
@@ -741,13 +742,13 @@
 		
 		A ficha encontra-se no seguinte estado, contendo já a teoria de uma
 		rede neural. Nesta seção trata-se sobre as técnicas que serão adotadas
-		do aprendizado de máquina (Machine Learning).
+		do aprendizado de máquina (Machine Learning ou ML).
 		
 		O aprendizado automático ou aprendizado de máquina é um programa de
 		computador que pode “aprender” de um conjunto de entradas disponíveis.
 		Define-se, em \cite{kevin_2012}, que o aprendizado de máquina é um
 		conjunto de métodos que podem detectar automaticamente padrões em
-		um determinado conjunto de dados e, posteriormente, utilizar esse
+		um determinado conjunto de dados e, posteriormente, utilizar esses
 		padrões descobertos para predizer dados futuros. Aprendizado é, grosseiramente
 		falando, o processo de converter experiência em habilidade ou conhecimento
 		\cite{shai_2014}. Aprender a partir de dados é o conceito fundamental
@@ -762,16 +763,15 @@
 		Tomando como ponto de partida que as máquinas aprendem a partir de
 		dados, então, em \cite{stephen_2015} a ML trata sobre como fazer
 		computadores modificarem ou adaptarem as suas ações de modo que estas
-		se tornem mais precisas, a precisão é medida por quão bem a escolha
+		se tornem mais precisas. A precisão é medida por quão bem a escolha
 		de ações refletem as escolhas corretas.
 		
-		Em que momento precisa-se do ML?, responder esta pergunta é fundamental
-		porque justifica a utilização dos conceitos de ML no trabalho. A resposta
-		é dada em \cite{shai_2014}, sugere-se que os conceitos de ML devem
-		ser utilizados em tarefas realizadas por humanos ou animais. De acordo
-		com isso, precisa-se do ML para poder modelar os algoritmos deste
-		trabalho; de modo que utilizam-se dados gerados pela interação humana
-		com a Web a partir de buscas.
+		Saber em que momento precisa-se do ML é fundamental	porque justifica a
+		utilização dos conceitos de ML no trabalho. Em
+		\cite{shai_2014}, sugere-se que os conceitos de ML devem ser utilizados em
+		tarefas realizadas por humanos ou animais. De acordo com isso, precisa-se do
+		ML para poder modelar os algoritmos deste trabalho, de modo que utilizam-se 
+		dados gerados pela interação humana com a Web a partir de buscas.
 		
 		De acordo com \cite{kevin_2012}, o aprendizado de máquina divide-se,
 		usualmente, em aprendizado supervisionado, aprendizado não supervisionado
@@ -780,7 +780,7 @@
 		das entradas, dado um conjunto de treinamento. A segunda abordagem
 		de ML, a não supervisionada ou descritiva, tem como objetivo encontrar
 		padrões e correlações entre os dados. Finalmente, a abordagem de aprendizado
-		por reforço, trata-se do modo de agir ou se comportar diante uma situação
+		por reforço, trata-se do modo de agir ou se comportar diante de uma situação
 		de recompensa ou de punição.
 		
 		A atividade de classificar e extrair conhecimento a partir do conteúdo
@@ -805,14 +805,14 @@
 		a abordagem de aprendizado de máquina, esta decisão justifica-se na
 		\cref{sec:aprendizado_maquina}. 
 		
-		Uma analogia da mineração de dados faz-se, em \cite{jiawei_2012},
+		Uma analogia da mineração de dados faz-se em \cite{jiawei_2012}
 		com a obtenção de ouro das rochas em uma mina. Ademais, enfatiza-se
 		que o nome apropriado para mineração de dados é “conhecimento minerado
 		a partir de dados”. Segundo \cite{jiawei_2012}, a descoberta de conhecimento
-		a partir de dados (ou KDD do inglês knowledge discovery from data)
+		a partir de dados (ou KDD, do inglês Knowledge Discovery from Data)
 		é sinônimo de mineração de dados, não obstante em \cite{umair_2014}
 		coloca-se o KDD, juntamente com o CRISP-DM e o SEMMA, como um tipo
-		de processo relacionado com a mineração de dados, seguidamente, expõe-se
+		de processo relacionado com a mineração de dados. A seguir, expõe-se
 		uma breve descrição sobre eles:
 		
 		\begin{description}[style=multiline,leftmargin=2.5cm]
@@ -820,7 +820,7 @@
 			\item [{KDD\nomenclature[KDD]{KDD}{knowledge discovery from data}}]
 			É um modelo de processo que consiste na extração de conhecimentos
 			escondidos a partir de um banco de dados. Deve ser um processo interativo
-			e iterativo, possui cinco passos de desenvolvimento que se podem observar
+			e iterativo, e possui cinco passos de desenvolvimento que se podem observar
 			na \cref{fig:KDD}.
 			
 			\captionsetup{width=0.7\textwidth}
@@ -864,7 +864,7 @@
 			
 		\end{description}
 		
-		Para passar ao seguinte estado da rede de Petri estabelecida, veja-se
+		Para passar ao seguinte estado da rede de Petri estabelecida, de acordo com a
 		\cref{fig:organ_teorica}, é necessário adotar um tipo de processo
 		de mineração de dados. Como é mencionado em \cite{david_2008}, nas
 		três metodologias que foram abarcadas, não há obrigação de seguir
@@ -901,29 +901,30 @@
 			\end{tabular}\\\vspace{0.2em}\fonte{\cite{gregory_2014}}
 		\end{table}
 		
-		
+% @FR Explicar a diferença entre `Própria' e 'Minha organização' na tabela 5.1
+% acima
 		
 		\subsection{Mineração na Web}
 		
 		A mineração na Web ou Web mining, é um conjunto de ferramentas adicionais
 		à mineração de dados que, como o nome indica, permitem a descoberta
 		de conhecimento utilizando recursos obtidos da Web. Em \cite{bing_2004}
-		explica-se que a mineração a na Web é descobrir informação útil e
-		relevante a partir de estruturas de hiper-referências, conteúdo das
+		explica-se que mineração na Web trata do processo de descoberta de informação
+		útil e relevante a partir de estruturas de hiper-referências, conteúdo das
 		páginas e dados de uso de clientes. Justamente essas três fontes de
 		extração de informação fazem referência às três categorias de mineração
-		na Web mostradas a seguir, veja-se na \cref{fig:Web_mining_taxonomia}:
+		na Web mostradas a seguir, conforme a \cref{fig:Web_mining_taxonomia}:
 		
 		\begin{description}[style=multiline,leftmargin=2.5cm]
 			
-			\item [{Conteúdo}] Ou Web content mining (WUM), é a extração de
-			informação valiosa a partir de informação alocada em páginas Web.
+			\item [{Conteúdo}] Ou Web Content Mining (WUM {\it ou WCM?} @FR), é a
+			extração de informação valiosa a partir de informação alocada em páginas Web.
 			
-			\item [{Estrutura}] Ou Web structure mining (WSM\nomenclature[WSM]{WSM}{Web Structure Mining}),
-			nesta técnica considera-se uma página Web como um nó e as referências
-			entre elas como as arestas que as juntam. 
+			\item [{Estrutura}] Ou Web Structure Mining (WSM\nomenclature[WSM]{WSM}{Web
+			Structure Mining}), nesta técnica considera-se uma página Web como um nó e as referências
+			entre diversas páginas como as arestas que as juntam. 
 			
-			\item [{Uso}] Ou Web usage mining (WUM), refere-se ao descobrimento
+			\item [{Uso}] Ou Web Usage Mining (WUM), refere-se ao descobrimento
 			de padrões de acessos do usuário ao servidor, ou seja extração de
 			padrões de Web logs. 
 			

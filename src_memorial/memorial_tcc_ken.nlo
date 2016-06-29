@@ -1,18 +1,18 @@
-\nomenclatureentry{WWWWWW@[{WWW}]\begingroup World Wide Web\nomeqref {0}|nompageref}{3}
-\nomenclatureentry{HTMLHTML@[{HTML}]\begingroup HyperText Markup Language\nomeqref {0}|nompageref}{3}
-\nomenclatureentry{XMLXML@[{XML}]\begingroup Extensible Markup Language\nomeqref {0}|nompageref}{3}
-\nomenclatureentry{JSONJSON@[{JSON}]\begingroup JavaScript Object Notation\nomeqref {0}|nompageref}{3}
-\nomenclatureentry{SCSC@[{SC}]\begingroup Soft Computing\nomeqref {0}|nompageref}{3}
-\nomenclatureentry{WCMWCM@[{WCM}]\begingroup Web Content Mining\nomeqref {0}|nompageref}{3}
-\nomenclatureentry{WUMWUM@[{WUM}]\begingroup Web Usage Mining\nomeqref {0}|nompageref}{3}
-\nomenclatureentry{HCHC@[{HC}]\begingroup Hard Computing\nomeqref {0}|nompageref}{7}
-\nomenclatureentry{NNNN@[{NN}]\begingroup Neural Network\nomeqref {0}|nompageref}{7}
-\nomenclatureentry{ECEC@[{EC}]\begingroup Evolutionary Computing\nomeqref {0}|nompageref}{7}
-\nomenclatureentry{FSFS@[{FS}]\begingroup Fuzzy Systems\nomeqref {0}|nompageref}{7}
-\nomenclatureentry{PRPR@[{PR}]\begingroup Probabilistic Reasoning\nomeqref {0}|nompageref}{7}
-\nomenclatureentry{MLML@[{ML}]\begingroup Machine Learning\nomeqref {0}|nompageref}{9}
-\nomenclatureentry{KDDKDD@[{KDD}]\begingroup knowledge discovery from data\nomeqref {0}|nompageref}{11}
-\nomenclatureentry{SEMMASEMMA@[{SEMMA}]\begingroup Sample, Explore, Modify, Model and Assess\nomeqref {0}|nompageref}{11}
-\nomenclatureentry{CRISP-DMCRISP-DM@[{CRISP-DM}]\begingroup Cross-Industry Standard Process for Data Mining\nomeqref {0}|nompageref}{11}
-\nomenclatureentry{WSMWSM@[{WSM}]\begingroup Web Structure Mining\nomeqref {0}|nompageref}{13}
-\nomenclatureentry{TDDTDD@[{TDD}]\begingroup Test-Driven Development\nomeqref {0}|nompageref}{16}
+\nomenclatureentry{WWWWWW@[{WWW}]\begingroup World Wide Web\nomeqref {0}|nompageref}{4}
+\nomenclatureentry{HTMLHTML@[{HTML}]\begingroup HyperText Markup Language\nomeqref {0}|nompageref}{4}
+\nomenclatureentry{XMLXML@[{XML}]\begingroup Extensible Markup Language\nomeqref {0}|nompageref}{4}
+\nomenclatureentry{JSONJSON@[{JSON}]\begingroup JavaScript Object Notation\nomeqref {0}|nompageref}{4}
+\nomenclatureentry{SCSC@[{SC}]\begingroup Soft Computing\nomeqref {0}|nompageref}{4}
+\nomenclatureentry{WCMWCM@[{WCM}]\begingroup Web Content Mining\nomeqref {0}|nompageref}{4}
+\nomenclatureentry{WUMWUM@[{WUM}]\begingroup Web Usage Mining\nomeqref {0}|nompageref}{4}
+\nomenclatureentry{HCHC@[{HC}]\begingroup Hard Computing\nomeqref {0}|nompageref}{8}
+\nomenclatureentry{NNNN@[{NN}]\begingroup Neural Networks\nomeqref {0}|nompageref}{8}
+\nomenclatureentry{ECEC@[{EC}]\begingroup Evolutionary Computing\nomeqref {0}|nompageref}{8}
+\nomenclatureentry{FSFS@[{FS}]\begingroup Fuzzy Systems\nomeqref {0}|nompageref}{8}
+\nomenclatureentry{PRPR@[{PR}]\begingroup Probabilistic Reasoning\nomeqref {0}|nompageref}{8}
+\nomenclatureentry{MLML@[{ML}]\begingroup Machine Learning\nomeqref {0}|nompageref}{10}
+\nomenclatureentry{KDDKDD@[{KDD}]\begingroup knowledge discovery from data\nomeqref {0}|nompageref}{12}
+\nomenclatureentry{SEMMASEMMA@[{SEMMA}]\begingroup Sample, Explore, Modify, Model and Assess\nomeqref {0}|nompageref}{12}
+\nomenclatureentry{CRISP-DMCRISP-DM@[{CRISP-DM}]\begingroup Cross-Industry Standard Process for Data Mining\nomeqref {0}|nompageref}{12}
+\nomenclatureentry{WSMWSM@[{WSM}]\begingroup Web Structure Mining\nomeqref {0}|nompageref}{14}
+\nomenclatureentry{TDDTDD@[{TDD}]\begingroup Test-Driven Development\nomeqref {0}|nompageref}{17}

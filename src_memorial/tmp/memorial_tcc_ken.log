@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.1.18)  28 JUN 2016 16:06
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.1.18)  29 JUN 2016 18:53
 entering extended mode
 **memorial_tcc_ken.tex
 (C:\Users\Fernando\git\memorialTcc\src_memorial\memorial_tcc_ken.tex
@@ -2094,49 +2094,49 @@ File: babel.def 2008/07/08 v3.8m Babel common definitions
 Package babel Info: Making " an active character on input line 145.
 ))
 (C:\Users\Fernando\git\memorialTcc\src_memorial\memorial_tcc_ken.aux)
-LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 260.
-LaTeX Font Info:    Try loading font information for OML+ntxmi on input line 26
-0.
+LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 259.
+LaTeX Font Info:    Try loading font information for OML+ntxmi on input line 25
+9.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\newtx\omlntxmi.fd"
 File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
 )
-LaTeX Font Info:    ... okay on input line 260.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 260.
-LaTeX Font Info:    ... okay on input line 260.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 260.
-LaTeX Font Info:    ... okay on input line 260.
-LaTeX Font Info:    Checking defaults for OMS/ntxsy/m/n on input line 260.
-LaTeX Font Info:    Try loading font information for OMS+ntxsy on input line 26
-0.
+LaTeX Font Info:    ... okay on input line 259.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 259.
+LaTeX Font Info:    ... okay on input line 259.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 259.
+LaTeX Font Info:    ... okay on input line 259.
+LaTeX Font Info:    Checking defaults for OMS/ntxsy/m/n on input line 259.
+LaTeX Font Info:    Try loading font information for OMS+ntxsy on input line 25
+9.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\newtx\omsntxsy.fd"
 File: omsntxsy.fd 2012/11/14 Fontinst v1.933 font definitions for OMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 260.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 260.
-LaTeX Font Info:    ... okay on input line 260.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 260.
-LaTeX Font Info:    Try loading font information for U+ntxexa on input line 260
+LaTeX Font Info:    ... okay on input line 259.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 259.
+LaTeX Font Info:    ... okay on input line 259.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 259.
+LaTeX Font Info:    Try loading font information for U+ntxexa on input line 259
 .
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\newtx\untxexa.fd"
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 260.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 260.
-LaTeX Font Info:    ... okay on input line 260.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 260.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 260.
+LaTeX Font Info:    ... okay on input line 259.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 259.
+LaTeX Font Info:    ... okay on input line 259.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 259.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 259.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 260.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 260.
-LaTeX Font Info:    ... okay on input line 260.
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 260.
+LaTeX Font Info:    ... okay on input line 259.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 259.
+LaTeX Font Info:    ... okay on input line 259.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 259.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd"
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
@@ -2197,7 +2197,7 @@ Package caption Info: End \AtBeginDocument code.
 File: siunitx-abbreviations.cfg 2016/03/01 v2.6q siunitx: Abbreviated units
 )
 \AtBeginShipoutBox=\box134
-Package hyperref Info: Link coloring OFF on input line 260.
+Package hyperref Info: Link coloring OFF on input line 259.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
@@ -2208,59 +2208,59 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 \c@section@level=\count329
 LaTeX Info: Redefining \Ref on input line 498.
 )
-LaTeX Info: Redefining \ref on input line 260.
-LaTeX Info: Redefining \pageref on input line 260.
-LaTeX Info: Redefining \nameref on input line 260.
+LaTeX Info: Redefining \ref on input line 259.
+LaTeX Info: Redefining \pageref on input line 259.
+LaTeX Info: Redefining \nameref on input line 259.
 
 (C:\Users\Fernando\git\memorialTcc\src_memorial\memorial_tcc_ken.out)
 (C:\Users\Fernando\git\memorialTcc\src_memorial\memorial_tcc_ken.out)
 \@outlinefile=\write6
-LaTeX Info: Redefining \Ref on input line 260.
+LaTeX Info: Redefining \Ref on input line 259.
 \c__siunitx_mathsf_int=\count330
 LaTeX Font Info:    Try loading font information for OT1+ntxtlf on input line 2
-60.
+59.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\newtx\ot1ntxtlf.fd"
 File: ot1ntxtlf.fd 2015/01/17 v1.0 font definition file for OT1/ntx/tlf
 )
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 260.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 259.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 260.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 259.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8.8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 260.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 259.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6.6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 260.
-LaTeX Font Info:    Try loading font information for U+ntxmia on input line 260
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 259.
+LaTeX Font Info:    Try loading font information for U+ntxmia on input line 259
 .
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\newtx\untxmia.fd"
 File: untxmia.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxmia.
 )
-LaTeX Font Info:    Try loading font information for U+ntxsym on input line 260
+LaTeX Font Info:    Try loading font information for U+ntxsym on input line 259
 .
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\newtx\untxsym.fd"
 File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
 )
-LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 260
+LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 259
 .
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\newtx\untxsyc.fd"
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 260.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 259.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 \c__siunitx_mathtt_int=\count331
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 260.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 259.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
@@ -2269,12 +2269,12 @@ File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 <img/LOGO_PNG.png, id=74, 562.80263pt x 748.89787pt>
 File: img/LOGO_PNG.png Graphic file (type png)
  <use img/LOGO_PNG.png>
-Package pdftex.def Info: img/LOGO_PNG.png used on input line 317.
+Package pdftex.def Info: img/LOGO_PNG.png used on input line 312.
 (pdftex.def)             Requested size: 56.28355pt x 74.89417pt.
 LaTeX Font Info:    Font shape `T1/ptm/bx/sc' in size <12> not available
-(Font)              Font shape `T1/ptm/b/sc' tried instead on input line 346.
+(Font)              Font shape `T1/ptm/b/sc' tried instead on input line 341.
 LaTeX Font Info:    Font shape `T1/ptm/bx/sc' in size <17.28> not available
-(Font)              Font shape `T1/ptm/b/sc' tried instead on input line 346.
+(Font)              Font shape `T1/ptm/b/sc' tried instead on input line 341.
 
 [1
 Non-PDF special ignored!
@@ -2287,21 +2287,21 @@ Non-PDF special ignored!
 Non-PDF special ignored!{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C
 :/Users/Fernando/git/memorialTcc/src_memorial/img/LOGO_PNG.png>]
 LaTeX Font Info:    Font shape `T1/ptm/bx/sc' in size <14.4> not available
-(Font)              Font shape `T1/ptm/b/sc' tried instead on input line 378.
+(Font)              Font shape `T1/ptm/b/sc' tried instead on input line 373.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 400.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 395.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.415 		\clearpage
+l.410 		\clearpage
                   {} [1
 
 ]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 426.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 421.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 426.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 421.
 
 (C:\Users\Fernando\git\memorialTcc\src_memorial\memorial_tcc_ken.lof)
 \tf@lof=\write7
@@ -2309,7 +2309,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.429 		\clearpage
+l.424 		\clearpage
                   {} [1
 
 
@@ -2320,21 +2320,36 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.443 		\newpage
+l.438 		\newpage
                 {} [1
 
 
 ]
-(C:\Users\Fernando\git\memorialTcc\src_memorial\memorial_tcc_ken.nls)
+(C:\Users\Fernando\git\memorialTcc\src_memorial\memorial_tcc_ken.nls) [2
+
+
+]
 (C:\Users\Fernando\git\memorialTcc\src_memorial\memorial_tcc_ken.toc)
 \tf@toc=\write9
- [2
-
-
+ [3
 
 
 ]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 518.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[4
+
+]
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 523.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <13> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 523.
 
 
@@ -2343,22 +2358,8 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[3
-
-]
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 528.
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <13> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 528.
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[4]
-LaTeX Font Info:    Try loading font information for TS1+ptm on input line 616.
+[5]
+LaTeX Font Info:    Try loading font information for TS1+ptm on input line 615.
 
  ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ts1ptm.fd"
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
@@ -2369,11 +2370,11 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[5] <img/rede_petri_teoria.pdf, id=179, 456.23997pt x 396.48918pt>
+[6] <img/rede_petri_teoria.pdf, id=184, 456.23997pt x 396.48918pt>
 File: img/rede_petri_teoria.pdf Graphic file (type pdf)
 
 <use img/rede_petri_teoria.pdf>
-Package pdftex.def Info: img/rede_petri_teoria.pdf used on input line 651.
+Package pdftex.def Info: img/rede_petri_teoria.pdf used on input line 654.
 (pdftex.def)             Requested size: 278.30597pt x 241.85803pt.
 
 
@@ -2385,11 +2386,11 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[6] <img/soft_computing_family.pdf, id=191, 362.34581pt x 359.50056pt>
+[7] <img/soft_computing_family.pdf, id=198, 362.34581pt x 359.50056pt>
 File: img/soft_computing_family.pdf Graphic file (type pdf)
 
 <use img/soft_computing_family.pdf>
-Package pdftex.def Info: img/soft_computing_family.pdf used on input line 688.
+Package pdftex.def Info: img/soft_computing_family.pdf used on input line 691.
 (pdftex.def)             Requested size: 155.80565pt x 154.58221pt.
 
 
@@ -2401,12 +2402,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[7 <C:/Users/Fernando/git/memorialTcc/src_memorial/img/rede_petri_teoria.pdf>]
-<img/abordagem_top_down.pdf, id=224, 421.61292pt x 342.42894pt>
+[8 <C:/Users/Fernando/git/memorialTcc/src_memorial/img/rede_petri_teoria.pdf>]
+<img/abordagem_top_down.pdf, id=231, 421.61292pt x 342.42894pt>
 File: img/abordagem_top_down.pdf Graphic file (type pdf)
 
 <use img/abordagem_top_down.pdf>
-Package pdftex.def Info: img/abordagem_top_down.pdf used on input line 715.
+Package pdftex.def Info: img/abordagem_top_down.pdf used on input line 719.
 (pdftex.def)             Requested size: 231.88782pt x 188.33649pt.
 
 
@@ -2415,7 +2416,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[8 <C:/Users/Fernando/git/memorialTcc/src_memorial/img/soft_computing_family.pd
+[9 <C:/Users/Fernando/git/memorialTcc/src_memorial/img/soft_computing_family.pd
 f> <C:/Users/Fernando/git/memorialTcc/src_memorial/img/abordagem_top_down.pdf>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2423,33 +2424,33 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[9]
+[10]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[10] <img/kdd.pdf, id=301, 550.13403pt x 220.08205pt>
+[11] <img/kdd.pdf, id=306, 550.13403pt x 220.08205pt>
 File: img/kdd.pdf Graphic file (type pdf)
  <use img/kdd.pdf>
-Package pdftex.def Info: img/kdd.pdf used on input line 826.
+Package pdftex.def Info: img/kdd.pdf used on input line 829.
 (pdftex.def)             Requested size: 286.07133pt x 114.44331pt.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 833.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 836.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.3> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 833.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 836.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5.5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 833.
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 833.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 836.
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 836.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1pcr.fd"
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
-<img/semma.pdf, id=307, 572.04266pt x 261.39546pt>
+<img/semma.pdf, id=312, 572.04266pt x 261.39546pt>
 File: img/semma.pdf Graphic file (type pdf)
  <use img/semma.pdf>
-Package pdftex.def Info: img/semma.pdf used on input line 840.
+Package pdftex.def Info: img/semma.pdf used on input line 843.
 (pdftex.def)             Requested size: 286.02063pt x 130.6974pt.
 
 
@@ -2458,12 +2459,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[11 <C:/Users/Fernando/git/memorialTcc/src_memorial/img/kdd.pdf> <C:/Users/Fern
+[12 <C:/Users/Fernando/git/memorialTcc/src_memorial/img/kdd.pdf> <C:/Users/Fern
 ando/git/memorialTcc/src_memorial/img/semma.pdf>]
-<img/crisp-dm.pdf, id=363, 430.54703pt x 270.55725pt>
+<img/crisp-dm.pdf, id=368, 430.54703pt x 270.55725pt>
 File: img/crisp-dm.pdf Graphic file (type pdf)
  <use img/crisp-dm.pdf>
-Package pdftex.def Info: img/crisp-dm.pdf used on input line 858.
+Package pdftex.def Info: img/crisp-dm.pdf used on input line 861.
 (pdftex.def)             Requested size: 258.3302pt x 162.33559pt.
 
 
@@ -2472,11 +2473,11 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[12 <C:/Users/Fernando/git/memorialTcc/src_memorial/img/crisp-dm.pdf>]
-<img/taxonomia.pdf, id=393, 722.95602pt x 380.41331pt>
+[13 <C:/Users/Fernando/git/memorialTcc/src_memorial/img/crisp-dm.pdf>]
+<img/taxonomia.pdf, id=398, 722.95602pt x 380.41331pt>
 File: img/taxonomia.pdf Graphic file (type pdf)
  <use img/taxonomia.pdf>
-Package pdftex.def Info: img/taxonomia.pdf used on input line 932.
+Package pdftex.def Info: img/taxonomia.pdf used on input line 936.
 (pdftex.def)             Requested size: 433.77696pt x 228.24974pt.
 
 
@@ -2485,28 +2486,28 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[13 <C:/Users/Fernando/git/memorialTcc/src_memorial/img/taxonomia.pdf>]
+[14 <C:/Users/Fernando/git/memorialTcc/src_memorial/img/taxonomia.pdf>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[14] <img/modelo_arquivo_wikipedia.pdf, id=425, 459.08519pt x 163.17654pt>
+[15] <img/modelo_arquivo_wikipedia.pdf, id=430, 459.08519pt x 163.17654pt>
 File: img/modelo_arquivo_wikipedia.pdf Graphic file (type pdf)
 
 <use img/modelo_arquivo_wikipedia.pdf>
 Package pdftex.def Info: img/modelo_arquivo_wikipedia.pdf used on input line 10
-12.
+16.
 (pdftex.def)             Requested size: 298.40182pt x 106.06348pt.
 
-Overfull \hbox (1.53159pt too wide) in paragraph at lines 1016--1022
+Overfull \hbox (1.53159pt too wide) in paragraph at lines 1020--1025
 [][]\T1/ptm/m/n/12 O re-sul-tado fi-nal é uma pla-ta-forma Web pro-du-zida in-t
 ei-ra-mente na lin-gua-gem Python
  []
 
 
-Overfull \hbox (5.8487pt too wide) in paragraph at lines 1043--1048
+Overfull \hbox (5.8487pt too wide) in paragraph at lines 1046--1051
    |[] \T1/ptm/m/n/12 Deseja-se apri-mo-rar as bus-cas de ar-ti-gos aca-dê-mi-c
 os dos usuá-rios baseando-
  []
@@ -2517,7 +2518,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[15 <C:/Users/Fernando/git/memorialTcc/src_memorial/img/modelo_arquivo_wikipedi
+[16 <C:/Users/Fernando/git/memorialTcc/src_memorial/img/modelo_arquivo_wikipedi
 a.pdf>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2525,12 +2526,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[16] <img/rede_petri_funcionamento.pdf, id=459, 601.34904pt x 276.98758pt>
+[17] <img/rede_petri_funcionamento.pdf, id=464, 601.34904pt x 276.98758pt>
 File: img/rede_petri_funcionamento.pdf Graphic file (type pdf)
 
 <use img/rede_petri_funcionamento.pdf>
 Package pdftex.def Info: img/rede_petri_funcionamento.pdf used on input line 10
-93.
+96.
 (pdftex.def)             Requested size: 330.743pt x 152.34363pt.
 
 
@@ -2539,7 +2540,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[17 <C:/Users/Fernando/git/memorialTcc/src_memorial/img/rede_petri_funcionament
+[18 <C:/Users/Fernando/git/memorialTcc/src_memorial/img/rede_petri_funcionament
 o.pdf>] (C:\Users\Fernando\git\memorialTcc\src_memorial\memorial_tcc_ken.bbl
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2547,7 +2548,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[18
+[19
 
 ])
 
@@ -2556,22 +2557,22 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[19]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1129.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1129.
+[20]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1132.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1132.
  (C:\Users\Fernando\git\memorialTcc\src_memorial\memorial_tcc_ken.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1129.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1129.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1132.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1132.
 
 Package rerunfilecheck Info: File `memorial_tcc_ken.out' has not changed.
-(rerunfilecheck)             Checksum: 48BECE3AF91637DC4873C6AEDD35A757;1065.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1129.
+(rerunfilecheck)             Checksum: EF648E747111F4075E780126A2CAD41F;1065.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1132.
  ) 
 Here is how much of TeX's memory you used:
- 44221 strings out of 494045
- 928083 string characters out of 3148378
- 1228926 words of memory out of 3000000
- 46696 multiletter control sequences out of 15000+200000
+ 44222 strings out of 494045
+ 928096 string characters out of 3148378
+ 1228960 words of memory out of 3000000
+ 46695 multiletter control sequences out of 15000+200000
  103419 words of font info for 135 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
  53i,18n,92p,10404b,957s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2581,9 +2582,9 @@ onts/type1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/
 times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb>
 <C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb><C:/Program File
 s/MiKTeX 2.9/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on memorial_tcc_ken.pdf (22 pages, 558760 bytes).
+Output written on memorial_tcc_ken.pdf (23 pages, 561121 bytes).
 PDF statistics:
- 533 PDF objects out of 1000 (max. 8388607)
- 85 named destinations out of 1000 (max. 500000)
+ 538 PDF objects out of 1000 (max. 8388607)
+ 87 named destinations out of 1000 (max. 500000)
  199 words of extra memory for PDF output out of 10000 (max. 10000000)
 
