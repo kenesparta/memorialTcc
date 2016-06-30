@@ -1,7 +1,4 @@
 \select@language {brazil}
-\contentsline {section}{Lista de Figuras}{1}{section*.2}
-\contentsline {section}{Lista de Tabelas}{1}{section*.5}
-\contentsline {section}{Lista de abreviaturas e siglas}{2}{section*.8}
 \contentsline {section}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{4}{section.1}
 \contentsline {section}{\numberline {2}Objetivo}{5}{section.2}
 \contentsline {subsection}{\numberline {2.1}Objetivo geral}{5}{subsection.2.1}

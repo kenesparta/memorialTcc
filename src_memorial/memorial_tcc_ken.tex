@@ -618,7 +618,7 @@
 		utiliza uma interface de aplicação, um controlador de mineração de
 		dados na Web (Web \emph{crawler}) e um extrator de textos. No presente
 		trabalho, o Web \emph{crawler} e o extrator de textos serão implementados.
-		Por outra parte, a interface de usuário será desenvolvida para que
+		Por outro lado, a interface de usuário será desenvolvida para que
 		seja executada na Web.
 		
 		No artigo acadêmico intitulado \emph{“Web Classification Mining Based
@@ -693,9 +693,9 @@
 		\end{figure}
 		
 		
-		A SC é composta por técnicas como as redes neurais (Neural Network\nomenclature[NN]{NN}{Neural Network}),
-		computação evolucionária (Evolutionary Computing\nomenclature[EC]{EC}{Evolutionary Computing}),
-		sistemas difusos (Fuzzy Systems\nomenclature[FS]{FS}{Fuzzy Systems})
+		A SC é composta por técnicas como as redes neurais (Neural
+		Networks \nomenclature[NN]{NN}{Neural Networks}), computação evolucionária
+		(Evolutionary Computing\nomenclature[EC]{EC}{Evolutionary Computing}), sistemas difusos (Fuzzy Systems\nomenclature[FS]{FS}{Fuzzy Systems})
 		e raciocínio probabilístico (Probabilistic Reasoning\nomenclature[PR]{PR}{Probabilistic Reasoning}),
 		como mostrado na \cref{fig:sc_comp}.
 		
@@ -742,7 +742,7 @@
 		
 		A ficha encontra-se no seguinte estado, contendo já a teoria de uma
 		rede neural. Nesta seção trata-se sobre as técnicas que serão adotadas
-		do aprendizado de máquina (Machine Learning).
+		do aprendizado de máquina (Machine Learning, ou ML).
 		
 		O aprendizado automático ou aprendizado de máquina é um programa de
 		computador que pode “aprender” de um conjunto de entradas disponíveis.
@@ -916,14 +916,14 @@
 		
 		\begin{description}[style=multiline,leftmargin=2.5cm]
 			
-			\item [{Conteúdo}] Ou Web Content mining (WCM), é a extração de
+			\item [{Conteúdo}] Ou Web Content Mining (WCM), é a extração de
 			informação valiosa a partir de informação alocada em páginas Web.
 			
-			\item [{Estrutura}] Ou Web Structure mining (WSM\nomenclature[WSM]{WSM}{Web Structure Mining}),
-			nesta técnica considera-se uma página Web como um nó e as referências
+			\item [{Estrutura}] Ou Web Structure Mining (WSM\nomenclature[WSM]{WSM}{Web
+			Structure Mining}), nesta técnica considera-se uma página Web como um nó e as referências
 			entre diversas páginas como as arestas que as juntam. 
 			
-			\item [{Uso}] Ou Web Usage mining (WUM), refere-se ao descobrimento
+			\item [{Uso}] Ou Web Usage Mining (WUM), refere-se ao descobrimento
 			de padrões de acessos do usuário ao servidor, ou seja extração de
 			padrões de Web logs.
 			
@@ -940,10 +940,10 @@
 		de conteúdo e mineração Web de uso. Esta escolha deve-se a dois fatores;
 		o primeiro é a utilização de Web logs (obtidos de \url{https://dumps.wikimedia.org/other/pagecounts-raw/})
 		para melhorar a experiência do usuário na busca por conteúdo na Wikipédia,
-		e o segundo fator, é a utilização de métodos de Web scraping que se
+		e o segundo fator, é a utilização de métodos de Web \emph{scraping} que se
 		aplicam em páginas de artigos acadêmicos semelhantes à Wikipédia.
-		Web scraping é um conjunto de técnicas computacionais que são utilizadas
-		para obter informação diretamente de páginas Web utilizando requisições
+		Web \emph{scraping} é um conjunto de técnicas computacionais que são
+		utilizadas para obter informação diretamente de páginas Web utilizando requisições
 		HTTP.
 		
 		Finalmente, chegando neste ponto, a estruturação teórica pára e em
@@ -957,24 +957,24 @@
 		
 		\label{sec:python_biblio}
 		
-		Esta secção não tem como intenção explicar sobre as funcionalidades
-		e recursos básicos linguagem Python, senão, a intenção é expor sobre
+		Esta seção não tem como intenção explicar sobre as funcionalidades
+		e recursos básicos da linguagem Python, mas a intenção é expor sobre
 		as bibliotecas necessárias que se utilizam para conseguir o objetivo
 		estabelecido na presente monografia.
 		
-		Scrapy, Requests e Beautiful Soup são três bibliotecas open source
+		Scrapy, Requests e Beautiful Soup são três bibliotecas \emph{open source}
 		utilizadas para realizar a descoberta de informação na Web de artigos
-		relacionados com a Wikipédia, um resumo sobre a funcionalidade dessas
-		bibliotecas são mostradas seguidamente:
+		relacionados com a Wikipédia. Um resumo sobre a funcionalidade dessas
+		bibliotecas é mostrado a seguir:
 		
 		\begin{description}[style=multiline,leftmargin=3.3cm]
 			
 			\item [{Scrapy}] É um framework escrito em Python para fazer rastreadores
-			Web (Web crawling) mediante a criação de “spiders” que são robôs que
-			coletam informação de uma determinada página Web.
+			Web (Web \emph{crawling}) mediante a criação de “\emph{spiders}”, que são
+			robôs que coletam informação de uma determinada página Web.
 			
 			\item [{Requests}] É uma biblioteca HTTP para Python, que faz requisições
-			Web e extração de conteúdo de uma página Web, essa extração é direta,
+			Web e extração de conteúdo de uma página Web. Essa extração é direta,
 			ou seja não existem filtros de tags. Para a filtragem utiliza-se a
 			biblioteca Beautifull Soup.
 			
@@ -985,9 +985,9 @@
 		\end{description}
 		
 		Para a etapa de análise dos dados coletados de Web logs da Wikipédia,
-		veja-se na \cref{fig:arquivo_wiki}, utilizam-se as seguintes bibliotecas
-		open source: Scipy, Numpy, Matplotlib e Jupyter. Uma breve explicação
-		sobre o funcionamento daquelas bibliotecas é exposta em seguida:
+		observe a \cref{fig:arquivo_wiki}, utilizam-se as seguintes bibliotecas
+		\emph{open source}: SciPy, NumPy, Matplotlib e Jupyter. Uma breve explicação
+		sobre o funcionamento dessas bibliotecas é exposta a seguir:
 		
 		\begin{description}[style=multiline,leftmargin=2.5cm]
 			
@@ -998,7 +998,7 @@
 			relacionados com álgebra linear e transformadas de Fourier.
 			
 			\item [{Matplotlib}] É uma biblioteca de Python para fazer gráficos
-			em duas dimensões. Utiliza-se geramente com a feramenta Jupyter para
+			em duas dimensões. Utiliza-se geralmente com a feramenta Jupyter para
 			aplicações Web relacionadas com a produção de gráficos semelhantes
 			à Mathematica\textregistered
 			
@@ -1046,25 +1046,25 @@
 			artigos acadêmicos dos usuários baseando-se na mineração de Web logs
 			da wikipédia e na mineração de páginas Web relacionadas. Utiliza-se
 			a técnica de mineração de dados porque as informações das páginas
-			Web maiormente tem informações irrelevantes. 
+			Web têm muitas informações irrelevantes. 
 			
 			\item [{Análise dos dados}] Os dados vem de duas fontes: Web logs
 			da Wikipédia, que são dados homogêneos e da mineração Web de conteúdo
 			de artigos acadêmicos, que são dados heterogêneos.
 			
 			\item [{Preparação dos dados}]Aplicam-se técnicas de filtragem nos
-			bancos de dados de Web logs da Wikipédia e os que foram obtidos a
-			través da mineração Web de modo que o “ruido” não desejado é eliminado.
-			Também aplicam-se técnicas de agrupamento de dados, tudo isso é para
-			poder otimizar o treinamento da rede neural que é modelada no seguinte
-			passo.
+			bancos de dados de Web logs da Wikipédia e os que foram obtidos através 
+			da mineração Web de modo que o “ruído” não desejado é eliminado.
+			Também aplicam-se técnicas de agrupamento de dados para
+			poder otimizar o treinamento da rede neural que é modelada no 
+			passo seguinte.
 			
 			\item [{Modelagem}]Nesta etapa, projeta-se uma rede neural adequada
 			ao problema a ser resolvido. A rede neural é do tipo RBF (Radial Basis
 			Function) e é implementada tendo como referência o artigo \cite{petprasit_2015}. 
 			
 			\item [{Avaliação}]Esta etapa realiza-se juntamente com a da Modelagem,
-			é dizer, enquanto se projeta uma rede neural ela é testada para verificar
+			isto é, enquanto se projeta uma rede neural ela é testada para verificar
 			o cumprimento dos requisitos de solução do problema.
 			
 			\item [{Desenvolvimento}]Finalmente, o desenvolvimento da aplicação
@@ -1074,18 +1074,19 @@
 		\end{description}
 		
 		Depois de haver estabelecido a metodologia, estabelecem-se as atividades
-		da aplicação Web proposta no trabalho, veja-se na \cref{fig:petri_funcionamento}.
+		da aplicação Web proposta no trabalho, conforme se observa na
+		\cref{fig:petri_funcionamento}.
 		Primeiramente, o usuário faz uma requisição HTTP no momento de fazer
 		uma busca usando o sistema Web proposto, essa ação ativará a busca
-		em vários sites (relacionados com artigos acadêmicos), essa busca
-		é realizada utilizando os métodos de Web scraping. Para extrair dados
-		da Web são utilizados os algoritmos Subject Detection e Node Density
-		propostos em \cite{petprasit_2015}, em seguida, aplica-se a técnica
+		em vários sites (relacionados com artigos acadêmicos), e
+		é realizada utilizando os métodos de Web \emph{scraping}. Para extrair dados
+		da Web são utilizados os algoritmos Subject Detection e Node Density,
+		propostos em \cite{petprasit_2015}. Em seguida, aplica-se a técnica
 		de mineração Web de conteúdo. Os dados obtidos a partir da mineração
-		Web são armazenados em um banco de dados não relacional (neste caso
+		Web são armazenados em um banco de dados não relacional (neste caso, o
 		MongoDB) e analisam-se, juntamente com os dados dos Web logs da Wikipédia,
 		utilizando uma técnica de rede neural com aprendizagem supervisionada.
-		Finalmente, a resposta preparada é mostrada para o usuário, dita resposta
+		Finalmente, a resposta preparada é mostrada para o usuário. Tal resposta
 		contém links de páginas Web de artigos acadêmicos que estão relacionados
 		com as palavras-chave da busca.
 		
@@ -1097,8 +1098,8 @@
 		
 		
 		Na \cref{tab:cronograma} mostra-se uma previsão de tempo para poder
-		realizar todas as tarefas. Lembrando que o processo CRISP-DM, veja-se
-		\cref{fig:CRISP-DM}, é cíclico e iterativo.
+		realizar todas as tarefas. Lembrando que o processo CRISP-DM
+		\cref{fig:CRISP-DM} é cíclico e iterativo.
 		
 		\captionsetup{width=0.7\textwidth}
 		\begin{table}[H]
@@ -1108,13 +1109,15 @@
 				\textbf{Atividade} & \textbf{Data}\tabularnewline
 				\midrule
 				\midrule 
-				Compreensão do Projeto  & 01/06/2016 $\longrightarrow$ 14/07/2016\tabularnewline
+				Compreensão do projeto  & 01/06/2016 $\longrightarrow$
+				14/07/2016\tabularnewline
 				\midrule
 				Análise dos dados  & 15/07/2016 $\longrightarrow$ 02/08/2016\tabularnewline
 				\midrule
 				Preparação dos dados  & 03/08/2016 $\longrightarrow$ 14/08/2016\tabularnewline
 				\midrule
-				Modelado, Avaliação, desenvolvimento e TDD  & 15/08/2016 $\longrightarrow$ 15/09/2016\tabularnewline
+				Modelagem, avaliação, desenvolvimento e TDD  & 15/08/2016 $\longrightarrow$
+				15/09/2016\tabularnewline
 				\bottomrule
 			\end{tabular}\\\vspace{0.1em}\fonteProp
 		\end{table}

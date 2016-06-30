@@ -3,69 +3,69 @@
  \nomgroup{C}
 
   \item [{CRISP-DM}]\begingroup Cross-Industry Standard Process for Data Mining\nomeqref {0}
-		\nompageref{12}
+		\nompageref{11}
 
  \nomgroup{E}
 
   \item [{EC}]\begingroup Evolutionary Computing\nomeqref {0}
-		\nompageref{8}
+		\nompageref{7}
 
  \nomgroup{F}
 
-  \item [{FS}]\begingroup Fuzzy Systems\nomeqref {0}\nompageref{8}
+  \item [{FS}]\begingroup Fuzzy Systems\nomeqref {0}\nompageref{7}
 
  \nomgroup{H}
 
-  \item [{HC}]\begingroup Hard Computing\nomeqref {0}\nompageref{8}
+  \item [{HC}]\begingroup Hard Computing\nomeqref {0}\nompageref{7}
   \item [{HTML}]\begingroup HyperText Markup Language\nomeqref {0}
-		\nompageref{4}
+		\nompageref{3}
 
  \nomgroup{J}
 
   \item [{JSON}]\begingroup JavaScript Object Notation\nomeqref {0}
-		\nompageref{4}
+		\nompageref{3}
 
  \nomgroup{K}
 
   \item [{KDD}]\begingroup knowledge discovery from data\nomeqref {0}
-		\nompageref{12}
+		\nompageref{10}
 
  \nomgroup{M}
 
-  \item [{ML}]\begingroup Machine Learning\nomeqref {0}\nompageref{10}
+  \item [{ML}]\begingroup Machine Learning\nomeqref {0}\nompageref{9}
 
  \nomgroup{N}
 
-  \item [{NN}]\begingroup Neural Networks\nomeqref {0}\nompageref{8}
+  \item [{NN}]\begingroup Neural Networks\nomeqref {0}\nompageref{7}
 
  \nomgroup{P}
 
   \item [{PR}]\begingroup Probabilistic Reasoning\nomeqref {0}
-		\nompageref{8}
+		\nompageref{7}
 
  \nomgroup{S}
 
-  \item [{SC}]\begingroup Soft Computing\nomeqref {0}\nompageref{4}
+  \item [{SC}]\begingroup Soft Computing\nomeqref {0}\nompageref{3}
   \item [{SEMMA}]\begingroup Sample, Explore, Modify, Model and Assess\nomeqref {0}
-		\nompageref{12}
+		\nompageref{11}
 
  \nomgroup{T}
 
   \item [{TDD}]\begingroup Test-Driven Development\nomeqref {0}
-		\nompageref{17}
+		\nompageref{16}
 
  \nomgroup{W}
 
   \item [{WCM}]\begingroup Web Content Mining\nomeqref {0}
-		\nompageref{4}
+		\nompageref{3}
   \item [{WSM}]\begingroup Web Structure Mining\nomeqref {0}
-		\nompageref{14}
-  \item [{WUM}]\begingroup Web Usage Mining\nomeqref {0}\nompageref{4}
-  \item [{WWW}]\begingroup World Wide Web\nomeqref {0}\nompageref{4}
+		\nompageref{13}
+  \item [{WUM}]\begingroup Web Usage Mining\nomeqref {0}\nompageref{3}
+  \item [{WWW}]\begingroup World Wide Web\nomeqref {0}\nompageref{3}
 
  \nomgroup{X}
 
   \item [{XML}]\begingroup Extensible Markup Language\nomeqref {0}
-		\nompageref{4}
+		\nompageref{3}
 
 \end{thenomenclature}

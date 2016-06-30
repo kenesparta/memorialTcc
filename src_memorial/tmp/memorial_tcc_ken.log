@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.1.18)  29 JUN 2016 18:53
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.1.18)  30 JUN 2016 04:00
 entering extended mode
 **memorial_tcc_ken.tex
 (C:\Users\Fernando\git\memorialTcc\src_memorial\memorial_tcc_ken.tex
@@ -2266,7 +2266,7 @@ LaTeX Font Info:    Try loading font information for OT1+pcr on input line 259.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-<img/LOGO_PNG.png, id=74, 562.80263pt x 748.89787pt>
+<img/LOGO_PNG.png, id=62, 562.80263pt x 748.89787pt>
 File: img/LOGO_PNG.png Graphic file (type png)
  <use img/LOGO_PNG.png>
 Package pdftex.def Info: img/LOGO_PNG.png used on input line 312.
@@ -2370,11 +2370,11 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[6] <img/rede_petri_teoria.pdf, id=184, 456.23997pt x 396.48918pt>
+[6] <img/rede_petri_teoria.pdf, id=172, 456.23997pt x 396.48918pt>
 File: img/rede_petri_teoria.pdf Graphic file (type pdf)
 
 <use img/rede_petri_teoria.pdf>
-Package pdftex.def Info: img/rede_petri_teoria.pdf used on input line 654.
+Package pdftex.def Info: img/rede_petri_teoria.pdf used on input line 655.
 (pdftex.def)             Requested size: 278.30597pt x 241.85803pt.
 
 
@@ -2386,11 +2386,11 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[7] <img/soft_computing_family.pdf, id=198, 362.34581pt x 359.50056pt>
+[7] <img/soft_computing_family.pdf, id=186, 362.34581pt x 359.50056pt>
 File: img/soft_computing_family.pdf Graphic file (type pdf)
 
 <use img/soft_computing_family.pdf>
-Package pdftex.def Info: img/soft_computing_family.pdf used on input line 691.
+Package pdftex.def Info: img/soft_computing_family.pdf used on input line 692.
 (pdftex.def)             Requested size: 155.80565pt x 154.58221pt.
 
 
@@ -2403,7 +2403,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [8 <C:/Users/Fernando/git/memorialTcc/src_memorial/img/rede_petri_teoria.pdf>]
-<img/abordagem_top_down.pdf, id=231, 421.61292pt x 342.42894pt>
+<img/abordagem_top_down.pdf, id=219, 421.61292pt x 342.42894pt>
 File: img/abordagem_top_down.pdf Graphic file (type pdf)
 
 <use img/abordagem_top_down.pdf>
@@ -2431,7 +2431,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[11] <img/kdd.pdf, id=306, 550.13403pt x 220.08205pt>
+[11] <img/kdd.pdf, id=294, 550.13403pt x 220.08205pt>
 File: img/kdd.pdf Graphic file (type pdf)
  <use img/kdd.pdf>
 Package pdftex.def Info: img/kdd.pdf used on input line 829.
@@ -2447,7 +2447,7 @@ LaTeX Font Info:    Try loading font information for T1+pcr on input line 836.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1pcr.fd"
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
-<img/semma.pdf, id=312, 572.04266pt x 261.39546pt>
+<img/semma.pdf, id=300, 572.04266pt x 261.39546pt>
 File: img/semma.pdf Graphic file (type pdf)
  <use img/semma.pdf>
 Package pdftex.def Info: img/semma.pdf used on input line 843.
@@ -2461,7 +2461,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [12 <C:/Users/Fernando/git/memorialTcc/src_memorial/img/kdd.pdf> <C:/Users/Fern
 ando/git/memorialTcc/src_memorial/img/semma.pdf>]
-<img/crisp-dm.pdf, id=368, 430.54703pt x 270.55725pt>
+<img/crisp-dm.pdf, id=356, 430.54703pt x 270.55725pt>
 File: img/crisp-dm.pdf Graphic file (type pdf)
  <use img/crisp-dm.pdf>
 Package pdftex.def Info: img/crisp-dm.pdf used on input line 861.
@@ -2474,10 +2474,10 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [13 <C:/Users/Fernando/git/memorialTcc/src_memorial/img/crisp-dm.pdf>]
-<img/taxonomia.pdf, id=398, 722.95602pt x 380.41331pt>
+<img/taxonomia.pdf, id=386, 722.95602pt x 380.41331pt>
 File: img/taxonomia.pdf Graphic file (type pdf)
  <use img/taxonomia.pdf>
-Package pdftex.def Info: img/taxonomia.pdf used on input line 936.
+Package pdftex.def Info: img/taxonomia.pdf used on input line 935.
 (pdftex.def)             Requested size: 433.77696pt x 228.24974pt.
 
 
@@ -2493,21 +2493,21 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[15] <img/modelo_arquivo_wikipedia.pdf, id=430, 459.08519pt x 163.17654pt>
+[15] <img/modelo_arquivo_wikipedia.pdf, id=418, 459.08519pt x 163.17654pt>
 File: img/modelo_arquivo_wikipedia.pdf Graphic file (type pdf)
 
 <use img/modelo_arquivo_wikipedia.pdf>
 Package pdftex.def Info: img/modelo_arquivo_wikipedia.pdf used on input line 10
-16.
+15.
 (pdftex.def)             Requested size: 298.40182pt x 106.06348pt.
 
-Overfull \hbox (1.53159pt too wide) in paragraph at lines 1020--1025
+Overfull \hbox (1.53159pt too wide) in paragraph at lines 1019--1024
 [][]\T1/ptm/m/n/12 O re-sul-tado fi-nal é uma pla-ta-forma Web pro-du-zida in-t
 ei-ra-mente na lin-gua-gem Python
  []
 
 
-Overfull \hbox (5.8487pt too wide) in paragraph at lines 1046--1051
+Overfull \hbox (20.07507pt too wide) in paragraph at lines 1045--1050
    |[] \T1/ptm/m/n/12 Deseja-se apri-mo-rar as bus-cas de ar-ti-gos aca-dê-mi-c
 os dos usuá-rios baseando-
  []
@@ -2526,7 +2526,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[17] <img/rede_petri_funcionamento.pdf, id=464, 601.34904pt x 276.98758pt>
+[17] <img/rede_petri_funcionamento.pdf, id=452, 601.34904pt x 276.98758pt>
 File: img/rede_petri_funcionamento.pdf Graphic file (type pdf)
 
 <use img/rede_petri_funcionamento.pdf>
@@ -2558,21 +2558,21 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [20]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1132.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1132.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1134.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1134.
  (C:\Users\Fernando\git\memorialTcc\src_memorial\memorial_tcc_ken.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1132.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1132.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1134.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1134.
 
 Package rerunfilecheck Info: File `memorial_tcc_ken.out' has not changed.
-(rerunfilecheck)             Checksum: EF648E747111F4075E780126A2CAD41F;1065.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1132.
+(rerunfilecheck)             Checksum: 914F708704683036E9104500C553C5EA;889.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1134.
  ) 
 Here is how much of TeX's memory you used:
- 44222 strings out of 494045
- 928096 string characters out of 3148378
- 1228960 words of memory out of 3000000
- 46695 multiletter control sequences out of 15000+200000
+ 44219 strings out of 494045
+ 928060 string characters out of 3148378
+ 1228959 words of memory out of 3000000
+ 46692 multiletter control sequences out of 15000+200000
  103419 words of font info for 135 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
  53i,18n,92p,10404b,957s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2582,9 +2582,9 @@ onts/type1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/
 times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb>
 <C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb><C:/Program File
 s/MiKTeX 2.9/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on memorial_tcc_ken.pdf (23 pages, 561121 bytes).
+Output written on memorial_tcc_ken.pdf (23 pages, 559212 bytes).
 PDF statistics:
- 538 PDF objects out of 1000 (max. 8388607)
+ 526 PDF objects out of 1000 (max. 8388607)
  87 named destinations out of 1000 (max. 500000)
- 199 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 175 words of extra memory for PDF output out of 10000 (max. 10000000)
 
