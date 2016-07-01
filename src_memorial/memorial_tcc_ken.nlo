@@ -5,11 +5,12 @@
 \nomenclatureentry{SCSC@[{SC}]\begingroup Soft Computing\nomeqref {0}|nompageref}{4}
 \nomenclatureentry{WCMWCM@[{WCM}]\begingroup Web Content Mining\nomeqref {0}|nompageref}{4}
 \nomenclatureentry{WUMWUM@[{WUM}]\begingroup Web Usage Mining\nomeqref {0}|nompageref}{4}
+\nomenclatureentry{KNNKNN@[{KNN}]\begingroup K-Nearest Neighbor\nomeqref {0}|nompageref}{7}
 \nomenclatureentry{HCHC@[{HC}]\begingroup Hard Computing\nomeqref {0}|nompageref}{8}
 \nomenclatureentry{NNNN@[{NN}]\begingroup Neural Networks\nomeqref {0}|nompageref}{8}
 \nomenclatureentry{ECEC@[{EC}]\begingroup Evolutionary Computing\nomeqref {0}|nompageref}{8}
 \nomenclatureentry{FSFS@[{FS}]\begingroup Fuzzy Systems\nomeqref {0}|nompageref}{8}
-\nomenclatureentry{PRPR@[{PR}]\begingroup Probabilistic Reasoning\nomeqref {0}|nompageref}{8}
+\nomenclatureentry{PRPR@[{PR}]\begingroup Probabilistic Reasoning\nomeqref {0}|nompageref}{9}
 \nomenclatureentry{MLML@[{ML}]\begingroup Machine Learning\nomeqref {0}|nompageref}{10}
 \nomenclatureentry{KDDKDD@[{KDD}]\begingroup knowledge discovery from data\nomeqref {0}|nompageref}{12}
 \nomenclatureentry{SEMMASEMMA@[{SEMMA}]\begingroup Sample, Explore, Modify, Model and Assess\nomeqref {0}|nompageref}{12}
