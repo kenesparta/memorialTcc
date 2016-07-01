@@ -36,6 +36,6 @@
 ```
 ### 2.2. Como abrir no TexStudio ou no Eclipse?
 <p>
-  Abrir o arquivo <b style="color:rgb(50,150,25)">memorial_tcc.tex</b> se utilizar o  <a href="http://www.texstudio.org/">TeXStudio</a> ou o arquivo arquivo <b style="color:rgb(255,0,0)">memorial_tcc.lyx</b> se utilizar o <a href="http://www.lyx.org/">LyX</a>.
+  Abrir o arquivo <b style="color:rgb(50,150,25)">memorial_tcc_ken.tex</b> se utilizar o  <a href="http://www.texstudio.org/">TeXStudio</a> ou o arquivo arquivo <b style="color:rgb(255,0,0)">Memorial_tcc_Ken.lyx</b> se utilizar o <a href="http://www.lyx.org/">LyX</a>.
 </p>
 <img src="ess_img/pastas.png" width="550px"/>
