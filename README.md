@@ -9,7 +9,7 @@
       <td>Prof. Me. Fernando Rodrigues</td>
     </tr>
     <tr>
-      <td><strong>Corientador</strong></td>
+      <td><strong>Coorientador</strong></td>
       <td>Prof. Dr. Márcio Amora</td>
     </tr>
     <tr>
